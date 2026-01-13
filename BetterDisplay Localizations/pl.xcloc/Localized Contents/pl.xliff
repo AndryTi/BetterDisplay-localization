@@ -247,7 +247,7 @@
       </trans-unit>
       <trans-unit id="%@ NTSC (or other unexposed) refresh rates may not persist after mode-changes unless forced by %@ Configuration Protection." xml:space="preserve">
         <source>%1$@ NTSC (or other unexposed) refresh rates may not persist after mode-changes unless forced by %2$@ Configuration Protection.</source>
-        <target state="translated">%1$@ Częstotliwości odświeżania NTSC (lub inne nieeksponowane) mogą nie utrzymać się po zmianie trybu, chyba że zostanie to wymuszone przez %2$@ Ochrona Konfiguracji.</target>
+        <target state="translated">%1$@ – Częstotliwości odświeżania NTSC (lub inne nieujawnione) mogą nie być zachowane po zmianie trybu, chyba że wymuszone przez ochronę konfiguracji %2$@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Negotiated mode may differ from the listed parameters. Check visuals or display OSD info." xml:space="preserve">
@@ -276,12 +276,12 @@
       </trans-unit>
       <trans-unit id="%@ Software XDR upscaling is active for extra brightness while native upscaling is also available. Enable the %@ preset for a better experience!" xml:space="preserve">
         <source>%@ Software XDR upscaling is active for extra brightness while native upscaling is also available. Enable the %@ preset for a better experience!</source>
-        <target state="translated">%@ Skalowanie programowe XDR jest aktywne w celu uzyskania dodatkowej jasności, ale dostępne jest również skalowanie natywne. Włącz ustawienie %@, aby uzyskać lepsze wrażenia!</target>
+        <target state="translated">%@ – Programowe skalowanie XDR jest aktywne, aby uzyskać dodatkową jasność, podczas gdy natywne skalowanie jest również dostępne. Włącz preset %@, aby poprawić komfort korzystania!</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Some adjustments may clip HDR content!" xml:space="preserve">
         <source>%@ Some adjustments may clip HDR content!</source>
-        <target state="translated">%@ Niektóre zmiany mogą spowodować przycięcie zawartości HDR!</target>
+        <target state="translated">%@ – Niektóre korekty mogą przycinać zawartość HDR!</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Stream auto-starts to associated display!" xml:space="preserve">
@@ -291,22 +291,22 @@
       </trans-unit>
       <trans-unit id="%@ The app is disengaged from native brightness keys." xml:space="preserve">
         <source>%@ The app is disengaged from native brightness keys.</source>
-        <target state="translated">%@ Aplikacja nie reaguje na natywne klawisze jasności.</target>
+        <target state="translated">%@ – Aplikacja nie korzysta z natywnych klawiszy jasności.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ The app is disengaged from native volume and mute keys." xml:space="preserve">
         <source>%@ The app is disengaged from native volume and mute keys.</source>
-        <target state="translated">%@ Aplikacja nie reaguje na natywne klawisze głośności i wyciszenia.</target>
+        <target state="translated">%@ – Aplikacja nie korzysta z natywnych klawiszy głośności i wyciszenia.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ The app listens to both the native volume and mute keys (if permissions permit)." xml:space="preserve">
         <source>%@ The app listens to both the native volume and mute keys (if permissions permit).</source>
-        <target state="translated">%@ Aplikacja reaguje zarówno na natywne klawisze głośności, jak i wyciszania (o ile pozwalają na to uprawnienia).</target>
+        <target state="translated">%@ – Aplikacja reaguje na natywne klawisze głośności i wyciszenia (jeśli uprawnienia na to pozwalają).</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ The app listens to the native brightness keys (if permissions permit)." xml:space="preserve">
         <source>%@ The app listens to the native brightness keys (if permissions permit).</source>
-        <target state="translated">%@ Aplikacja reaguje na natywne klawisze regulacji jasności (jeśli pozwalają na to uprawnienia).</target>
+        <target state="translated">%@ Aplikacja reaguje na natywne klawisze regulacji jasności (jeśli uprawnienia na to pozwalają).</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ The app listens to the volume keys (if permissions permit) but not the mute key." xml:space="preserve">
@@ -316,12 +316,12 @@
       </trans-unit>
       <trans-unit id="%@ The mouse hovers over the streamed content and does not interact with it." xml:space="preserve">
         <source>%@ The mouse hovers over the streamed content and does not interact with it.</source>
-        <target state="translated">%@ Kursor przesuwa się nad strumieniowaną treścią bez interakcji z nią.</target>
+        <target state="translated">%@ – Kursor myszy znajduje się nad przesyłaną zawartością i nie wchodzi z nią w interakcję.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ These steps provide the modern way to enter and exit the service menu and unlock the advanced service menu options - should work on newer Samsung Smart displays. Use the appropriate step %@ for your display type." xml:space="preserve">
         <source>%1$@ These steps provide the modern way to enter and exit the service menu and unlock the advanced service menu options - should work on newer Samsung Smart displays. Use the appropriate step %2$@ for your display type.</source>
-        <target state="translated">%1$@ Poniższe kroki przedstawiają nowoczesny sposób wejścia i wyjścia z menu serwisowego oraz odblokowania zaawansowanych opcji menu serwisowego — powinny działać na nowszych wyświetlaczach Samsung Smart. Wybierz odpowiedni krok %2$@ dla swojego typu wyświetlacza.</target>
+        <target state="translated">%1$@ – Te kroki przedstawiają nowoczesny sposób wchodzenia i wychodzenia z menu serwisowego oraz odblokowywania zaawansowanych opcji menu serwisowego – powinno działać na nowszych wyświetlaczach Samsung Smart. Użyj odpowiedniego kroku %2$@ dla swojego typu wyświetlacza.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ This license is currently active on %lld installations." xml:space="preserve">
@@ -336,12 +336,12 @@
       </trans-unit>
       <trans-unit id="%@ This shows options for the current resolution. See Display Modes menu for the full list." xml:space="preserve">
         <source>%@ This shows options for the current resolution. See Display Modes menu for the full list.</source>
-        <target state="translated">%@ Pokazuje opcje dla bieżącej rozdzielczości. Pełna lista znajduje się w menu Tryby Wyświetlania.</target>
+        <target state="translated">%@ – Pokazuje opcje dla bieżącej rozdzielczości. Pełną listę znajdziesz w menu Tryby wyświetlania.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Tri-Screen" xml:space="preserve">
         <source>%@ Tri-Screen</source>
-        <target state="translated">%@ Potrójny ekran</target>
+        <target state="translated">%@ – Trzy ekrany</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Typical LG service menu passwords include 0413, 1925, 8741, 8743, 8878, 3195, 1105, 0000, 1111, 7777. Use the virtual remote to enter the appropriate digits when prompted. Enable full service menu to access expert settings." xml:space="preserve">
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="%@ Use ⌘ Command + Click to warp the mouse cursor to the source screen!" xml:space="preserve">
         <source>%@ Use ⌘ Command + Click to warp the mouse cursor to the source screen!</source>
-        <target state="translated">%@ Użyj kombinacji klawiszy ⌘ Command + kliknięcie, aby przenieść kursor myszy na ekran źródłowy!</target>
+        <target state="translated">%@ – Użyj ⌘ Command + kliknięcie, aby przenieść kursor myszy na ekran źródłowy!</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Use ⌥ Option + click on the display menu header for a quick identification." xml:space="preserve">
@@ -371,12 +371,12 @@
       </trans-unit>
       <trans-unit id="%@ Virtual Screen as Mirror Target?" xml:space="preserve">
         <source>%@ Virtual Screen as Mirror Target?</source>
-        <target state="translated">%@ Wirtualny wyświetlacz jako cel klonowania</target>
+        <target state="translated">%@ Wirtualny ekran jako cel klonowania</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ Virtual Screen as Stream Target?" xml:space="preserve">
         <source>%@ Virtual Screen as Stream Target?</source>
-        <target state="translated">%@ Wirtualny wyświetlacz jako cel strumieniowania</target>
+        <target state="translated">%@ Wirtualny ekran jako cel strumieniowania</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ is unable to detect any display. This might indicate an application or system error." xml:space="preserve">
@@ -390,11 +390,11 @@
 If you imported settings from a different installation, macOS display identifiers (UUIDs) may not match with this installation. As a result, various imported settings may not get immediately applied to the connected displays.
 
 Use the 'Transfer display settings' feature under all affected display's additional settings to fix the identifier mismatch issue.</source>
-        <target state="translated">%@ należy ponownie uruchomić, aby zastosować zaimportowane ustawienia.
+        <target state="translated">%@ musi zostać ponownie uruchomiony, aby zastosować zaimportowane ustawienia.
 
-Jeśli zaimportowano ustawienia z innej instalacji, identyfikatory wyświetlacza macOS (UUID) mogą nie pasować do tej instalacji. W rezultacie różne zaimportowane ustawienia mogą nie zostać natychmiast zastosowane do podłączonych wyświetlaczy.
+Jeśli zaimportowałeś ustawienia z innej instalacji, identyfikatory wyświetlaczy macOS (UUID) mogą nie odpowiadać tej instalacji. W rezultacie różne zaimportowane ustawienia mogą nie zostać od razu zastosowane do podłączonych wyświetlaczy.
 
-Aby rozwiązać problem niezgodności identyfikatorów, należy użyć funkcji „Przenieś ustawienia wyświetlacza” w dodatkowych ustawieniach wszystkich wyświetlaczy, których dotyczy problem.</target>
+Użyj funkcji „Przenieś ustawienia wyświetlacza” w dodatkowych ustawieniach wszystkich dotkniętych wyświetlaczy, aby rozwiązać problem niezgodności identyfikatorów.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ nits" xml:space="preserve">
@@ -729,7 +729,7 @@ Dziękujemy za wyrozumiałość i dalsze wsparcie.</target>
       </trans-unit>
       <trans-unit id="A less than 720p desktop resolution is not ideal for macOS usability as GUI elements might not fit. This affects virtual screens as well as the resolution slider for displays." xml:space="preserve">
         <source>A less than 720p desktop resolution is not ideal for macOS usability as GUI elements might not fit. This affects virtual screens as well as the resolution slider for displays.</source>
-        <target state="translated">Mniejsza rozdzielczość niż 720p nie jest najlepsza dla macOS, ponieważ niektóre elementy interfejsu użytkownika mogą się nie zmieścić na ekranie. Ma to wpływ na ekrany wirtualne oraz suwak rozdzielczości wyświetlaczy.</target>
+        <target state="translated">Rozdzielczość pulpitu niższa niż 720p nie jest optymalna dla macOS, ponieważ elementy interfejsu mogą się nie mieścić. Dotyczy to zarówno wirtualnych ekranów, jak i suwaka rozdzielczości dla wyświetlaczy.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A popup notification will appear when the app detects interference from other apps that adjust the color table. Useful for troubleshooting." xml:space="preserve">
@@ -739,27 +739,27 @@ Dziękujemy za wyrozumiałość i dalsze wsparcie.</target>
       </trans-unit>
       <trans-unit id="A virtual screen is similar to a real display but exists only in the virtual space (in the computer's memory). You can use it to show it in a PIP window, stream or mirror its content to a real display or use it as a source for screen recording or screencast via an appropriate app." xml:space="preserve">
         <source>A virtual screen is similar to a real display but exists only in the virtual space (in the computer's memory). You can use it to show it in a PIP window, stream or mirror its content to a real display or use it as a source for screen recording or screencast via an appropriate app.</source>
-        <target state="translated">Wirtualny wyświetlacz jest podobny do prawdziwego ekranu, ale istnieje tylko w przestrzeni wirtualnej (w pamięci komputera). Można go używać do wyświetlania w oknie PIP, przesyłania strumieniowego lub klonowania jego zawartości do rzeczywistego wyświetlacza albo używania go jako źródła do nagrywania ekranu lub screencastu za pomocą odpowiedniej aplikacji.</target>
+        <target state="translated">Wirtualny ekran jest podobny do prawdziwego wyświetlacza, lecz istnieje tylko w przestrzeni wirtualnej (w pamięci komputera). Możesz go użyć do wyświetlania w oknie PIP, przesyłania strumienia lub mirroringu na rzeczywisty wyświetlacz albo jako źródło nagrywania ekranu lub screencastu za pomocą odpowiedniej aplikacji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is connected or disconnected. You can disable auto-connect for associated virtual screens." xml:space="preserve">
         <source>A virtual screen which is associated with a display will automatically connect or disconnect when the associated display is connected or disconnected. You can disable auto-connect for associated virtual screens.</source>
-        <target state="translated">Wirtualny wyświetlacz, który jest powiązany z ekranem, zostanie automatycznie podłączony lub odłączony, gdy powiązany ekran zostanie podłączony lub odłączony. Można wyłączyć automatyczne łączenie dla powiązanych wyświetlaczy wirtualnych.</target>
+        <target state="translated">Wirtualny ekran powiązany z wyświetlaczem będzie automatycznie łączył się lub rozłączał, gdy powiązany wyświetlacz zostanie podłączony lub odłączony. Możesz wyłączyć automatyczne łączenie dla powiązanych wirtualnych ekranów.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens." xml:space="preserve">
         <source>A virtual screen which is associated with a display will automatically connect when the associated display is connected. All other virtual screens were connected. You can disable auto-connect for associated virtual screens.</source>
-        <target state="translated">Wirtualny wyświetlacz, który jest powiązany z monitorem, połączy się automatycznie po podłączeniu powiązanego monitora. Wszystkie inne wirtualne wyświetlacze zostały podłączone. Można wyłączyć automatyczne łączenie dla powiązanych wirtualnych wyświetlaczy.</target>
+        <target state="translated">Wirtualny ekran powiązany z wyświetlaczem automatycznie połączy się po podłączeniu wyświetlacza. Wszystkie pozostałe wirtualne ekrany zostały połączone. Możesz wyłączyć automatyczne łączenie dla powiązanych wirtualnych ekranów.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A virtual screen which is associated with a display will automatically disconnect when the associated display is disconnected. All other virtual screens were disconnected. You can disable auto-disconnect for associated virtual screens." xml:space="preserve">
         <source>A virtual screen which is associated with a display will automatically disconnect when the associated display is disconnected. All other virtual screens were disconnected. You can disable auto-disconnect for associated virtual screens.</source>
-        <target state="translated">Wirtualny wyświetlacz powiązany z monitorem zostanie automatycznie odłączony po odłączeniu powiązanego monitora. Wszystkie inne wirtualne wyświetlacze zostały odłączone. Można wyłączyć automatyczne rozłączanie dla powiązanych wirtualnych wyświetlaczy.</target>
+        <target state="translated">Wirtualny ekran powiązany z wyświetlaczem automatycznie rozłączy się po odłączeniu wyświetlacza. Wszystkie pozostałe wirtualne ekrany zostały rozłączone. Możesz wyłączyć automatyczne rozłączanie dla powiązanych wirtualnych ekranów.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A virtual screen which is associated with a display will connect or disconnect automatically when the associated display is connected or disconnected." xml:space="preserve">
         <source>A virtual screen which is associated with a display will connect or disconnect automatically when the associated display is connected or disconnected.</source>
-        <target state="translated">Wirtualny wyświetlacz, który jest powiązany z monitorem, połączy się lub rozłączy automatycznie, gdy powiązany monitor zostanie podłączony lub odłączony.</target>
+        <target state="translated">Wirtualny ekran powiązany z wyświetlaczem będzie automatycznie łączył się lub rozłączał wraz z podłączeniem lub odłączeniem wyświetlacza.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Abandon waiting for a response or call completion after the specified time interval." xml:space="preserve">
@@ -884,7 +884,7 @@ Dziękujemy za wyrozumiałość i dalsze wsparcie.</target>
       </trans-unit>
       <trans-unit id="Add Control…" xml:space="preserve">
         <source>Add Control…</source>
-        <target state="translated">Dodaj kontrolę…</target>
+        <target state="translated">Dodaj element sterujący…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Custom Control" xml:space="preserve">
@@ -944,6 +944,7 @@ Dziękujemy za wyrozumiałość i dalsze wsparcie.</target>
       </trans-unit>
       <trans-unit id="Add a soft shadow around the OSD so it stands out more." xml:space="preserve">
         <source>Add a soft shadow around the OSD so it stands out more.</source>
+        <target state="translated">Dodaj delikatny cień wokół OSD, aby było lepiej widoczne.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add and remove favorite resolutions via long press" xml:space="preserve">
@@ -1072,7 +1073,7 @@ Dziękujemy za wyrozumiałość i dalsze wsparcie.</target>
       </trans-unit>
       <trans-unit id="Advanced virtual screen settings" xml:space="preserve">
         <source>Advanced virtual screen settings</source>
-        <target state="translated">Zaawansowane ustawienia wirtualnych ekranów</target>
+        <target state="translated">Zaawansowane ustawienia wirtualnego ekranu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Affected displays" xml:space="preserve">
@@ -1084,14 +1085,14 @@ Dziękujemy za wyrozumiałość i dalsze wsparcie.</target>
         <source>After discarding a virtual screen, it is recommended to remove its unused factory color profile as well.
 
 You can do this in System Settings or the app can do it for you (administrator credentials needed).</source>
-        <target state="translated">Po usunięciu wirtualnego wyświetlacza zaleca się również usunięcie nieużywanego fabrycznego profilu kolorów.
+        <target state="translated">Po usunięciu wirtualnego ekranu zaleca się także usunięcie jego nieużywanego fabrycznego profilu kolorów.
 
-Możesz to zrobić w Ustawieniach systemowych lub aplikacja może to zrobić za Ciebie (wymagane są poświadczenia administratora).</target>
+Możesz to zrobić w Ustawieniach systemowych lub aplikacja może wykonać to automatycznie (wymagane uprawnienia administratora).</target>
         <note/>
       </trans-unit>
       <trans-unit id="After discarding the virtual screen, it is recommended to remove its unused factory color profile in System Settings." xml:space="preserve">
         <source>After discarding the virtual screen, it is recommended to remove its unused factory color profile in System Settings.</source>
-        <target state="translated">Po usunięciu wirtualnego wyświetlacza zaleca się usunięcie nieużywanego fabrycznego profilu kolorów w Ustawieniach systemowych.</target>
+        <target state="translated">Po usunięciu wirtualnego ekranu zaleca się usunięcie nieużywanego fabrycznego profilu kolorów w Ustawieniach systemowych.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Aggressive disconnect" xml:space="preserve">
@@ -1205,6 +1206,7 @@ Tej zmiany nie można cofnąć. Czy na pewno chcesz to zrobić?</target>
       </trans-unit>
       <trans-unit id="Allow hardware backlight/OLED pixel brightness level, contrast and saturation control. Availability of these controls may depend on the current picture mode. Control responsiveness may be slow. On OLED models using software image adjustments exclusively might result in superior experience." xml:space="preserve">
         <source>Allow hardware backlight/OLED pixel brightness level, contrast and saturation control. Availability of these controls may depend on the current picture mode. Control responsiveness may be slow. On OLED models using software image adjustments exclusively might result in superior experience.</source>
+        <target state="translated">Zezwalaj na sprzętową kontrolę jasności podświetlenia / poziomu jasności pikseli OLED, kontrastu i nasycenia. Dostępność tych opcji może zależeć od aktualnego trybu obrazu. Reakcja sterowania może być opóźniona. W przypadku modeli OLED korzystanie wyłącznie z programowych korekt obrazu może zapewnić lepsze wrażenia.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow hardware brightness control in HDR mode" xml:space="preserve">
@@ -1239,6 +1241,7 @@ Tej zmiany nie można cofnąć. Czy na pewno chcesz to zrobić?</target>
       </trans-unit>
       <trans-unit id="Allow the app to send power signals to the Samsung Smart TV on sleep and wake or display disconnect/reconnect. Before enabling this, make sure your Mac does not control the TV via HDMI-CEC 'Anynet+' already." xml:space="preserve">
         <source>Allow the app to send power signals to the Samsung Smart TV on sleep and wake or display disconnect/reconnect. Before enabling this, make sure your Mac does not control the TV via HDMI-CEC 'Anynet+' already.</source>
+        <target state="translated">Zezwalaj aplikacji na wysyłanie sygnałów zasilania do telewizora Samsung Smart TV podczas usypiania i wybudzania komputera lub przy odłączaniu/podłączaniu wyświetlacza. Przed włączeniem upewnij się, że Mac nie steruje już telewizorem przez HDMI-CEC („Anynet+”).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow the app to turn the device off/on on sleep &amp; wake or device disconnect/reconnect." xml:space="preserve">
@@ -1383,17 +1386,17 @@ Tej zmiany nie można cofnąć. Czy na pewno chcesz to zrobić?</target>
       </trans-unit>
       <trans-unit id="An error occurred while configuring the connected virtual screen." xml:space="preserve">
         <source>An error occurred while configuring the connected virtual screen.</source>
-        <target state="translated">Wystąpił błąd podczas konfiguracji podłączonego ekranu wirtualnego.</target>
+        <target state="translated">Wystąpił błąd podczas konfiguracji podłączonego wirtualnego ekranu.</target>
         <note/>
       </trans-unit>
       <trans-unit id="An error occurred while connecting the virtual screen." xml:space="preserve">
         <source>An error occurred while connecting the virtual screen.</source>
-        <target state="translated">Wystąpił błąd podczas łączenia ekranu wirtualnego.</target>
+        <target state="translated">Wystąpił błąd podczas łączenia wirtualnego ekranu.</target>
         <note/>
       </trans-unit>
       <trans-unit id="An error occurred while creating the virtual screen" xml:space="preserve">
         <source>An error occurred while creating the virtual screen</source>
-        <target state="translated">Wystąpił błąd podczas tworzenia ekranu wirtualnego.</target>
+        <target state="translated">Wystąpił błąd podczas tworzenia wirtualnego ekranu</target>
         <note/>
       </trans-unit>
       <trans-unit id="An update to %@ is available!" xml:space="preserve">
@@ -1495,7 +1498,7 @@ AliPay dostępne w Chinach.</target>
       </trans-unit>
       <trans-unit id="Apple Silicon Macs tend to freeze the display instead of letting it go to standby upon sleep when a virtual screen is being mirrored. This workaround that tries to fix this issue." xml:space="preserve">
         <source>Apple Silicon Macs tend to freeze the display instead of letting it go to standby upon sleep when a virtual screen is being mirrored. This workaround that tries to fix this issue.</source>
-        <target state="translated">Maci z Apple Silicon mają tendencję do „zawieszania” wyświetlacza zamiast przechodzenia w tryb uśpienia, gdy wirtualny ekran jest klonowany. To obejście próbuje rozwiązać ten problem.</target>
+        <target state="translated">Komputery Mac z procesorami Apple Silicon mają tendencję do „zawieszania” wyświetlacza zamiast przechodzenia w tryb uśpienia, gdy wirtualny ekran jest mirrorowany. To obejście próbuje naprawić ten problem.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apple external display" xml:space="preserve">
@@ -1660,7 +1663,7 @@ AliPay dostępne w Chinach.</target>
       </trans-unit>
       <trans-unit id="Associate the virtual screen with this display" xml:space="preserve">
         <source>Associate the virtual screen with this display</source>
-        <target state="translated">Powiąż wirtualny wyświetlacz z tym ekranem</target>
+        <target state="translated">Powiąż wirtualny ekran z tym wyświetlaczem</target>
         <note/>
       </trans-unit>
       <trans-unit id="Associate this display with an audio device that has native volume controls" xml:space="preserve">
@@ -1829,12 +1832,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Automatically connect the virtual screen when all associated displays are offline and disconnect when not." xml:space="preserve">
         <source>Automatically connect the virtual screen when all associated displays are offline and disconnect when not.</source>
-        <target state="translated">Automatycznie podłącz wirtualny ekran, gdy wszystkie powiązane wyświetlacze są w trybie offline, i odłącz, gdy nie są.</target>
+        <target state="translated">Automatycznie połącz wirtualny ekran, gdy wszystkie powiązane wyświetlacze są w trybie offline, i rozłącz, gdy nie są.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically connect the virtual screen when an associated display is online and disconnect when it is not." xml:space="preserve">
         <source>Automatically connect the virtual screen when an associated display is online and disconnect when it is not.</source>
-        <target state="translated">Automatycznie podłącz wirtualny ekran, gdy powiązany wyświetlacz jest online, i odłącz, gdy nie jest.</target>
+        <target state="translated">Automatycznie połącz wirtualny ekran, gdy powiązany wyświetlacz jest online, i rozłącz, gdy nie jest.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically disable off both Night Shift and True Tone when an external third party display is set to HDR mode and enable them when switching back to SDR mode. Useful for more accurate colors when watching HDR content." xml:space="preserve">
@@ -2447,6 +2450,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Color Gamut" xml:space="preserve">
         <source>Color Gamut</source>
+        <target state="translated">Gamut kolorów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color Mode" xml:space="preserve">
@@ -2456,6 +2460,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Color Posterize" xml:space="preserve">
         <source>Color Posterize</source>
+        <target state="translated">Posteryzacja kolorów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color Profile" xml:space="preserve">
@@ -2470,11 +2475,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Color Table" xml:space="preserve">
         <source>Color Table</source>
+        <target state="translated">Tabela kolorów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color Temperature" xml:space="preserve">
         <source>Color Temperature</source>
-        <target state="translated">Temperatura kolorów</target>
+        <target state="translated">Temperatura barwowa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color changes, upscaling and dimming via color table adjustments clip HDR content. With this enabled, the app resets the color table when no adjustments are needed. This might be distracting or cause a black screen on some configurations." xml:space="preserve">
@@ -2484,38 +2490,42 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Color mode changed for %@." xml:space="preserve">
         <source>Color mode changed for %@.</source>
+        <target state="translated">Zmieniono tryb kolorów dla %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color profile changed for %@." xml:space="preserve">
         <source>Color profile changed for %@.</source>
+        <target state="translated">Zmieniono profil kolorów dla %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color table alteration capable" xml:space="preserve">
         <source>Color table alteration capable</source>
+        <target state="translated">Obsługuje modyfikację tabeli kolorów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color temperature cooler" xml:space="preserve">
         <source>Color temperature cooler</source>
-        <target state="translated">Niższa temperatura kolorów</target>
+        <target state="translated">Chłodniejsza temperatura barwowa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color temperature warmer" xml:space="preserve">
         <source>Color temperature warmer</source>
-        <target state="translated">Wyższa temperatura kolorów</target>
+        <target state="translated">Cieplejsza temperatura barwowa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combine hardware brightness control (if available), software dimming and XDR/HDR upscaling into one unified brightness control." xml:space="preserve">
         <source>Combine hardware brightness control (if available), software dimming and XDR/HDR upscaling into one unified brightness control.</source>
-        <target state="translated">Połączenie sprzętowej regulacji jasności (jeśli jest dostępna), programowego przyciemniania i skalowania XDR/HDR w jedną zunifikowaną regulację jasności.</target>
+        <target state="translated">Połącz kontrolę sprzętowej jasności (jeśli dostępna), programowe przyciemnianie oraz skalowanie XDR/HDR w jedną, zunifikowaną kontrolę jasności.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combined Brightness" xml:space="preserve">
         <source>Combined Brightness</source>
+        <target state="translated">Jasność łączona</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combined brightness" xml:space="preserve">
         <source>Combined brightness</source>
-        <target state="translated">Jasność łączna</target>
+        <target state="translated">Jasność łączona</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combined brightness - XDR/HDR upscaling maximum scale value" xml:space="preserve">
@@ -2525,7 +2535,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Combined brightness - minimum allowed hardware brightness level" xml:space="preserve">
         <source>Combined brightness - minimum allowed hardware brightness level</source>
-        <target state="translated">Jasność łączna - minimalny dozwolony poziom jasności sprzętowej</target>
+        <target state="translated">Jasność łączona – minimalny dozwolony poziom sprzętowej jasności</target>
         <note/>
       </trans-unit>
       <trans-unit id="Combined brightness - software dimming switchover point" xml:space="preserve">
@@ -2535,26 +2545,32 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Combined brightness is not required with default settings as the native XDR brightness scale covers the entire configurable scale. Use only if you want to fine-tune the dimming curve below the configured XDR brightness scale minimum" xml:space="preserve">
         <source>Combined brightness is not required with default settings as the native XDR brightness scale covers the entire configurable scale. Use only if you want to fine-tune the dimming curve below the configured XDR brightness scale minimum</source>
+        <target state="translated">Jasność łączona nie jest potrzebna przy ustawieniach domyślnych, ponieważ natywna skala jasności XDR obejmuje całą konfigurowalną skalę. Używaj jej tylko, jeśli chcesz precyzyjnie dostroić krzywą przyciemniania poniżej minimalnego poziomu natywnej skali XDR.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Comic Effect" xml:space="preserve">
         <source>Comic Effect</source>
+        <target state="translated">Efekt komiksowy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Command control" xml:space="preserve">
         <source>Command control</source>
+        <target state="translated">Kontrola poleceń</target>
         <note/>
       </trans-unit>
       <trans-unit id="Complete Pairing" xml:space="preserve">
         <source>Complete Pairing</source>
+        <target state="translated">Zakończ parowanie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compositor Filter" xml:space="preserve">
         <source>Compositor Filter</source>
+        <target state="translated">Filtr kompozytora</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compresses the allowed software brightness range between the specified value and 100%, affecting the software component of combined brightness control as well. This helps avoid accidentally setting the software brightness level too low or to zero." xml:space="preserve">
         <source>Compresses the allowed software brightness range between the specified value and 100%, affecting the software component of combined brightness control as well. This helps avoid accidentally setting the software brightness level too low or to zero.</source>
+        <target state="translated">Kompresuje dozwolony zakres programowej jasności między określoną wartością a 100%, wpływając także na programowy komponent w łączonej kontroli jasności. Pomaga to uniknąć przypadkowego ustawienia poziomu jasności programowej zbyt nisko lub na zero.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Computer monitor" xml:space="preserve">
@@ -2569,34 +2585,42 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Configuration changes require reboot or activation." xml:space="preserve">
         <source>Configuration changes require reboot or activation.</source>
+        <target state="translated">Zmiany konfiguracji wymagają ponownego uruchomienia lub aktywacji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configuration delay" xml:space="preserve">
         <source>Configuration delay</source>
+        <target state="translated">Opóźnienie konfiguracji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configuration run ID" xml:space="preserve">
         <source>Configuration run ID</source>
+        <target state="translated">Identyfikator uruchomienia konfiguracji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure ${customEDID} as custom EDID for ${displayEntity}." xml:space="preserve">
         <source>Configure ${customEDID} as custom EDID for ${displayEntity}.</source>
+        <target state="translated">Skonfiguruj ${customEDID} jako niestandardowy EDID dla ${displayEntity}.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure %@ tri-screen synchronization" xml:space="preserve">
         <source>Configure %@ tri-screen synchronization</source>
+        <target state="translated">Skonfiguruj synchronizację trzech ekranów %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure Accessibility" xml:space="preserve">
         <source>Configure Accessibility</source>
+        <target state="translated">Konfiguracja dostępności</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure Custom EDID" xml:space="preserve">
         <source>Configure Custom EDID</source>
+        <target state="translated">Skonfiguruj niestandardowy EDID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure DDC Controls…" xml:space="preserve">
         <source>Configure DDC Controls…</source>
+        <target state="translated">Skonfiguruj sterowanie DDC…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure DDC Input Sources…" xml:space="preserve">
@@ -2606,18 +2630,22 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Configure DDC volume and mute control support under &quot;DDC Controls…&quot; or set up an alternative control method using control integration." xml:space="preserve">
         <source>Configure DDC volume and mute control support under "DDC Controls…" or set up an alternative control method using control integration.</source>
+        <target state="translated">Skonfiguruj obsługę sterowania głośnością i wyciszeniem przez DDC w sekcji „Sterowanie DDC…” lub ustaw alternatywną metodę kontroli za pomocą integracji sterowania.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure Display…" xml:space="preserve">
         <source>Configure Display…</source>
+        <target state="translated">Skonfiguruj wyświetlacz…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure Groups…" xml:space="preserve">
         <source>Configure Groups…</source>
+        <target state="translated">Skonfiguruj grupy…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure Integration Controls…" xml:space="preserve">
         <source>Configure Integration Controls…</source>
+        <target state="translated">Skonfiguruj sterowanie integracją…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure Virtual Screen…" xml:space="preserve">
@@ -2627,14 +2655,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Configure activation rules" xml:space="preserve">
         <source>Configure activation rules</source>
+        <target state="translated">Skonfiguruj zasady aktywacji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure current values as neutral (default) values for relevant features" xml:space="preserve">
         <source>Configure current values as neutral (default) values for relevant features</source>
+        <target state="translated">Ustaw bieżące wartości jako neutralne (domyślne) dla odpowiednich funkcji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure flexible scaling for %@" xml:space="preserve">
         <source>Configure flexible scaling for %@</source>
+        <target state="translated">Skonfiguruj elastyczne skalowanie dla %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure full screen stream to this display" xml:space="preserve">
@@ -2644,43 +2675,47 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Configure layout protection for %@" xml:space="preserve">
         <source>Configure layout protection for %@</source>
+        <target state="translated">Skonfiguruj ochronę układu dla %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure steps for range-based controls" xml:space="preserve">
         <source>Configure steps for range-based controls</source>
+        <target state="translated">Skonfiguruj kroki dla elementów sterujących opartych na zakresie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure the custom EDID for a display." xml:space="preserve">
         <source>Configure the custom EDID for a display.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Configure the nits counter shown within the native OSD icon under Settings &gt; Keyboard &gt; OSD." xml:space="preserve">
-        <source>Configure the nits counter shown within the native OSD icon under Settings &gt; Keyboard &gt; OSD.</source>
+        <target state="translated">Skonfiguruj niestandardowy EDID dla wyświetlacza.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure the upscaling and dimming indicator OSD icon (chevron) under Settings &gt; Keyboard &gt; OSD." xml:space="preserve">
         <source>Configure the upscaling and dimming indicator OSD icon (chevron) under Settings &gt; Keyboard &gt; OSD.</source>
+        <target state="translated">Skonfiguruj ikonę OSD wskaźnika skalowania i przyciemniania (strzałka) w Ustawieniach &gt; Klawiatura &gt; OSD.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure virtual screen mirroring" xml:space="preserve">
         <source>Configure virtual screen mirroring</source>
-        <target state="translated">Konfiguruj klonowanie wirtualnego wyświetlacza</target>
+        <target state="translated">Konfiguruj klonowanie wirtualnego ekranu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configure virtual screen/stream rotation - useful for portrait Sidecar or for displays that do not support changing orientation. With Sidecar you can decide whether the USB-C port (lightning connector) should face up or down." xml:space="preserve">
         <source>Configure virtual screen/stream rotation - useful for portrait Sidecar or for displays that do not support changing orientation. With Sidecar you can decide whether the USB-C port (lightning connector) should face up or down.</source>
+        <target state="translated">Skonfiguruj obrót wirtualnego ekranu/przesyłanego obrazu – przydatne w trybie pionowym Sidecar lub na wyświetlaczach, które nie obsługują zmiany orientacji. W przypadku Sidecar możesz wybrać, czy port USB-C (złącze Lightning) ma być skierowany do góry czy w dół.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configures the min and max volume ranges accepted by the TV. Use the sync button to fetch values from the device (if supported)." xml:space="preserve">
         <source>Configures the min and max volume ranges accepted by the TV. Use the sync button to fetch values from the device (if supported).</source>
+        <target state="translated">Konfiguruje minimalny i maksymalny zakres głośności akceptowany przez telewizor. Użyj przycisku synchronizacji, aby pobrać wartości z urządzenia (jeśli jest obsługiwane).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect" xml:space="preserve">
         <source>Connect</source>
+        <target state="translated">Połącz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect (Automatic)" xml:space="preserve">
         <source>Connect (Automatic)</source>
+        <target state="translated">Połącz (automatycznie)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect All" xml:space="preserve">
@@ -2695,27 +2730,32 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Connect All Virtual Screens" xml:space="preserve">
         <source>Connect All Virtual Screens</source>
-        <target state="translated">Połącz wszystkie wirtualne wyświetlacze</target>
+        <target state="translated">Połącz wszystkie wirtualne ekrany</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect Display" xml:space="preserve">
         <source>Connect Display</source>
+        <target state="translated">Połącz wyświetlacz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect LG webOS Device" xml:space="preserve">
         <source>Connect LG webOS Device</source>
+        <target state="translated">Połącz urządzenie LG webOS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect Samsung Smart Device" xml:space="preserve">
         <source>Connect Samsung Smart Device</source>
+        <target state="translated">Połącz urządzenie Samsung Smart</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect Virtual Screen" xml:space="preserve">
         <source>Connect Virtual Screen</source>
+        <target state="translated">Połącz wirtualny ekran</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect all disassociated virtual screens" xml:space="preserve">
         <source>Connect all disassociated virtual screens</source>
+        <target state="translated">Połącz wszystkie odłączone wirtualne ekrany</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect all displays" xml:space="preserve">
@@ -2725,11 +2765,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Connect or Disconnect a Display" xml:space="preserve">
         <source>Connect or Disconnect a Display</source>
+        <target state="translated">Podłącz lub odłącz wyświetlacz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect this virtual screen" xml:space="preserve">
         <source>Connect this virtual screen</source>
-        <target state="translated">Podłącz ten wirtualny wyświetlacz</target>
+        <target state="translated">Połącz ten wirtualny ekran</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect/Disconnect" xml:space="preserve">
@@ -2744,14 +2785,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Connected virtual screens will remain connected after this operation." xml:space="preserve">
         <source>Connected virtual screens will remain connected after this operation.</source>
+        <target state="translated">Podłączone wirtualne ekrany pozostaną podłączone po wykonaniu tej operacji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connecting the built-in display" xml:space="preserve">
         <source>Connecting the built-in display</source>
+        <target state="translated">Łączenie wbudowanego wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connecting virtual screens" xml:space="preserve">
         <source>Connecting virtual screens</source>
+        <target state="translated">Łączenie wirtualnych ekranów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connection management settings" xml:space="preserve">
@@ -2761,22 +2805,27 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Connection status: %@" xml:space="preserve">
         <source>Connection status: %@</source>
+        <target state="translated">Stan połączenia: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connects the virtual screen and starts full screen streaming from the virtual screen to the display. Also sets up the full screen stream to automatically start whenever the display is connected." xml:space="preserve">
         <source>Connects the virtual screen and starts full screen streaming from the virtual screen to the display. Also sets up the full screen stream to automatically start whenever the display is connected.</source>
+        <target state="translated">Łączy wirtualny ekran i rozpoczyna strumieniowanie w trybie pełnoekranowym z wirtualnego ekranu na wyświetlacz. Ustawia również automatyczne uruchamianie strumieniowania w pełnym ekranie za każdym razem, gdy wyświetlacz zostanie podłączony.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Consider range differences" xml:space="preserve">
         <source>Consider range differences</source>
+        <target state="translated">Uwzględnij różnice w zakresie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contacting server…" xml:space="preserve">
         <source>Contacting server…</source>
+        <target state="translated">Łączenie z serwerem…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Content" xml:space="preserve">
         <source>Content</source>
+        <target state="translated">Zawartość</target>
         <note/>
       </trans-unit>
       <trans-unit id="Continuous software XDR upscaling readiness" xml:space="preserve">
@@ -2796,22 +2845,27 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Control" xml:space="preserve">
         <source>Control</source>
+        <target state="translated">Element sterujący</target>
         <note/>
       </trans-unit>
       <trans-unit id="Control integration" xml:space="preserve">
         <source>Control integration</source>
+        <target state="translated">Integracja sterowania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Control name" xml:space="preserve">
         <source>Control name</source>
+        <target state="translated">Nazwa elementu sterującego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Control values (managed by the integration controller or other additional controllers) on startup" xml:space="preserve">
         <source>Control values (managed by the integration controller or other additional controllers) on startup</source>
+        <target state="translated">Wartości elementów sterujących (zarządzane przez kontroler integracji lub inne dodatkowe kontrolery) przy uruchamianiu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Controller" xml:space="preserve">
         <source>Controller</source>
+        <target state="translated">Kontroler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
@@ -2835,15 +2889,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Create Display Group" xml:space="preserve">
         <source>Create Display Group</source>
+        <target state="translated">Utwórz grupę wyświetlaczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Create New Display Group…" xml:space="preserve">
         <source>Create New Display Group…</source>
+        <target state="translated">Utwórz nową grupę wyświetlaczy…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Create New Virtual Screen" xml:space="preserve">
         <source>Create New Virtual Screen</source>
-        <target state="translated">Utwórz nowy wirtualny wyświetlacz</target>
+        <target state="translated">Utwórz nowy wirtualny ekran</target>
         <note/>
       </trans-unit>
       <trans-unit id="Create New Virtual Screen…" xml:space="preserve">
@@ -2857,11 +2913,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Create Virtual Screen" xml:space="preserve">
         <source>Create Virtual Screen</source>
-        <target state="translated">Utwórz wirtualny wyświetlacz</target>
+        <target state="translated">Utwórz wirtualny ekran</target>
         <note/>
       </trans-unit>
       <trans-unit id="Create a new" xml:space="preserve">
         <source>Create a new</source>
+        <target state="translated">Utwórz nowe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Create a virtual screen that matches to the aspect ratio of another display and associate the virtual screen with the display. Best for a scenario when the virtual screen should be streamed (e.g. portrait Sidecar) or mirrored to a display." xml:space="preserve">
@@ -2871,67 +2928,82 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Create a virtual screen with a custom aspect ratio. You can also set up a custom resolution list with varying aspect ratios after creating the virtual screen." xml:space="preserve">
         <source>Create a virtual screen with a custom aspect ratio. You can also set up a custom resolution list with varying aspect ratios after creating the virtual screen.</source>
+        <target state="translated">Utwórz wirtualny ekran z niestandardowym współczynnikiem proporcji. Po utworzeniu wirtualnego ekranu możesz również skonfigurować listę niestandardowych rozdzielczości o różnych proporcjach.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Create both LoDPI and HiDPI variants of each resolutions. Enabling HiDPI will also create a pixel-doubled LoDPI version for each resolution option." xml:space="preserve">
         <source>Create both LoDPI and HiDPI variants of each resolutions. Enabling HiDPI will also create a pixel-doubled LoDPI version for each resolution option.</source>
+        <target state="translated">Utwórz warianty LoDPI i HiDPI dla każdej rozdzielczości. Włączenie HiDPI spowoduje również utworzenie podwójnie pikselowanej wersji LoDPI dla każdej opcji rozdzielczości.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Creating a virtual screen" xml:space="preserve">
         <source>Creating a virtual screen</source>
-        <target state="translated">Tworzenie wirtualnego wyświetlacza</target>
+        <target state="translated">Tworzenie wirtualnego ekranu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop area height - decrease" xml:space="preserve">
         <source>Crop area height - decrease</source>
+        <target state="translated">Wysokość obszaru przycinania – zmniejsz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop area height - increase" xml:space="preserve">
         <source>Crop area height - increase</source>
+        <target state="translated">Wysokość obszaru przycinania – zwiększ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop area width - decrease" xml:space="preserve">
         <source>Crop area width - decrease</source>
+        <target state="translated">Szerokość obszaru przycinania – zmniejsz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop area width - increase" xml:space="preserve">
         <source>Crop area width - increase</source>
+        <target state="translated">Szerokość obszaru przycinania – zwiększ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop origin X - decrease" xml:space="preserve">
         <source>Crop origin X - decrease</source>
+        <target state="translated">Punkt początkowy przycinania X – zmniejsz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop origin X - increase" xml:space="preserve">
         <source>Crop origin X - increase</source>
+        <target state="translated">Punkt początkowy przycinania X – zwiększ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop origin Y - decrease" xml:space="preserve">
         <source>Crop origin Y - decrease</source>
+        <target state="translated">Punkt początkowy przycinania Y – zmniejsz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crop origin Y - increase" xml:space="preserve">
         <source>Crop origin Y - increase</source>
+        <target state="translated">Punkt początkowy przycinania Y – zwiększ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Crystallize" xml:space="preserve">
         <source>Crystallize</source>
+        <target state="translated">Krystalizuj</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current" xml:space="preserve">
         <source>Current</source>
+        <target state="translated">Bieżący</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current (Alternate) Identifiers" xml:space="preserve">
         <source>Current (Alternate) Identifiers</source>
+        <target state="translated">Bieżące (alternatywne) identyfikatory</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current Display Mode" xml:space="preserve">
         <source>Current Display Mode</source>
+        <target state="translated">Bieżący tryb wyświetlania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current Display Mode (Connection Level)" xml:space="preserve">
         <source>Current Display Mode (Connection Level)</source>
+        <target state="translated">Bieżący tryb wyświetlania (poziom połączenia)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current audio device has no native volume control" xml:space="preserve">
@@ -2956,6 +3028,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Current mode" xml:space="preserve">
         <source>Current mode</source>
+        <target state="translated">Bieżący tryb</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current native resolution" xml:space="preserve">
@@ -2965,6 +3038,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Current resolution (width x height) is shown as text when enabled." xml:space="preserve">
         <source>Current resolution (width x height) is shown as text when enabled.</source>
+        <target state="translated">Bieżąca rozdzielczość (szer. x wys.) jest wyświetlana jako tekst po włączeniu tej opcji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current system display name" xml:space="preserve">
@@ -2974,30 +3048,37 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Current value: %u" xml:space="preserve">
         <source>Current value: %u</source>
+        <target state="translated">Bieżąca wartość: %u</target>
         <note/>
       </trans-unit>
       <trans-unit id="Currently available as HiDPI" xml:space="preserve">
         <source>Currently available as HiDPI</source>
+        <target state="translated">Obecnie dostępne jako HiDPI</target>
         <note/>
       </trans-unit>
       <trans-unit id="Currently available as LoDPI" xml:space="preserve">
         <source>Currently available as LoDPI</source>
+        <target state="translated">Obecnie dostępne jako LoDPI</target>
         <note/>
       </trans-unit>
       <trans-unit id="Currently not available" xml:space="preserve">
         <source>Currently not available</source>
+        <target state="translated">Obecnie niedostępne</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
         <source>Custom</source>
+        <target state="translated">Niestandardowy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Controls" xml:space="preserve">
         <source>Custom Controls</source>
+        <target state="translated">Niestandardowy element sterujący</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Controls…" xml:space="preserve">
         <source>Custom Controls…</source>
+        <target state="translated">Niestandardowe elementy sterujące…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom Keyboard Shortcuts" xml:space="preserve">
@@ -3007,6 +3088,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Custom SF Symbol app icon" xml:space="preserve">
         <source>Custom SF Symbol app icon</source>
+        <target state="translated">Niestandardowa ikona aplikacji w formacie SF Symbol</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom aspect ratio" xml:space="preserve">
@@ -3016,14 +3098,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Custom control icon" xml:space="preserve">
         <source>Custom control icon</source>
+        <target state="translated">Ikona niestandardowego elementu sterującego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups." xml:space="preserve">
         <source>Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups.</source>
+        <target state="translated">Niestandardowe elementy sterujące można przypisać do niestandardowych funkcji DDC, CLI lub sieciowych dla różnych urządzeń i wykorzystać do synchronizacji z grupami wyświetlaczy.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups. Hold ⌥ Option when opening to show predefined controls." xml:space="preserve">
         <source>Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups. Hold ⌥ Option when opening to show predefined controls.</source>
+        <target state="translated">Niestandardowe elementy sterujące można przypisać do funkcji DDC, CLI lub sieciowych dla różnych urządzeń i wykorzystać do synchronizacji grup wyświetlaczy. Przytrzymaj ⌥ Option podczas otwierania, aby pokazać predefiniowane kontrolki.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom display groups require Pro." xml:space="preserve">
@@ -3068,14 +3153,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Customize App Menu Contents…" xml:space="preserve">
         <source>Customize App Menu Contents…</source>
+        <target state="translated">Dostosuj zawartość menu aplikacji…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize Blend Mode" xml:space="preserve">
         <source>Customize Blend Mode</source>
+        <target state="translated">Dostosuj tryb mieszania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize Menu Options" xml:space="preserve">
         <source>Customize Menu Options</source>
+        <target state="translated">Dostosuj opcje menu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize flexible scaling resolution range" xml:space="preserve">
@@ -3085,14 +3173,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Customize input source list for this display" xml:space="preserve">
         <source>Customize input source list for this display</source>
+        <target state="translated">Dostosuj listę źródeł sygnału dla tego wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden." xml:space="preserve">
         <source>Customize the contents of the app menu - set which items are visible always, which only when the menu is expanded and which ones should be hidden.</source>
+        <target state="translated">Dostosuj zawartość menu aplikacji – określ, które pozycje mają być zawsze widoczne, które tylko po rozwinięciu menu, a które mają być ukryte.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customized control via CLI and scripted commands, network or macOS notification dispatch mechanism." xml:space="preserve">
         <source>Customized control via CLI and scripted commands, network or macOS notification dispatch mechanism.</source>
+        <target state="translated">Niestandardowa kontrola za pomocą CLI i poleceń skryptowych, sieci lub mechanizmu powiadomień macOS.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cut" xml:space="preserve">
@@ -3102,22 +3193,27 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="DDC" xml:space="preserve">
         <source>DDC</source>
+        <target state="translated">DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Backlight Control" xml:space="preserve">
         <source>DDC Backlight Control</source>
+        <target state="translated">Sterowanie podświetleniem DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Command" xml:space="preserve">
         <source>DDC Command</source>
+        <target state="translated">Polecenie DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Display Input Source" xml:space="preserve">
         <source>DDC Display Input Source</source>
+        <target state="translated">Źródło sygnału wyświetlacza DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Input Source Control" xml:space="preserve">
         <source>DDC Input Source Control</source>
+        <target state="translated">Sterowanie źródłem sygnału DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Input Sources" xml:space="preserve">
@@ -3132,82 +3228,102 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="DDC Power" xml:space="preserve">
         <source>DDC Power</source>
+        <target state="translated">Zasilanie DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC Power Off" xml:space="preserve">
         <source>DDC Power Off</source>
+        <target state="translated">Wyłączanie zasilania DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC allows for hardware backlight, volume control, input selection and various other features. Requires a compatible external display. Most televisions don't have support DDC while most displays do." xml:space="preserve">
         <source>DDC allows for hardware backlight, volume control, input selection and various other features. Requires a compatible external display. Most televisions don't have support DDC while most displays do.</source>
+        <target state="translated">DDC umożliwia sterowanie sprzętowym podświetleniem, głośnością, wyborem źródła sygnału oraz innymi funkcjami. Wymaga kompatybilnego zewnętrznego wyświetlacza. Większość telewizorów nie obsługuje DDC, natomiast większość monitorów tak.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC capabilities report" xml:space="preserve">
         <source>DDC capabilities report</source>
+        <target state="translated">Raport możliwości DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC channel" xml:space="preserve">
         <source>DDC channel</source>
+        <target state="translated">Kanał DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC communication" xml:space="preserve">
         <source>DDC communication</source>
+        <target state="translated">Komunikacja DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC control code(s) (comma delimited hex values)" xml:space="preserve">
         <source>DDC control code(s) (comma delimited hex values)</source>
+        <target state="translated">Kody sterowania DDC (wartości szesnastkowe oddzielone przecinkami)</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC data" xml:space="preserve">
         <source>DDC data</source>
+        <target state="translated">Dane DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC data for the OFF value" xml:space="preserve">
         <source>DDC data for the OFF value</source>
+        <target state="translated">Dane DDC dla wartości WYŁ.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC data for the ON value is" xml:space="preserve">
         <source>DDC data for the ON value is</source>
+        <target state="translated">Dane DDC dla wartości WŁ. to</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC features &amp; capabilities" xml:space="preserve">
         <source>DDC features &amp; capabilities</source>
+        <target state="translated">Funkcje i możliwości DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC hardware brightness might be restored according to the per-display settings." xml:space="preserve">
         <source>DDC hardware brightness might be restored according to the per-display settings.</source>
+        <target state="translated">Sprzętowe podświetlenie DDC może zostać przywrócone zgodnie z ustawieniami dla każdego wyświetlacza.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC messaging" xml:space="preserve">
         <source>DDC messaging</source>
+        <target state="translated">Komunikaty DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC read is not universally supported by otherwise DDC capable displays." xml:space="preserve">
         <source>DDC read is not universally supported by otherwise DDC capable displays.</source>
+        <target state="translated">Odczyt DDC nie jest powszechnie obsługiwany przez wyświetlacze, które w przeciwnym razie obsługują DDC.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC value mapping skew" xml:space="preserve">
         <source>DDC value mapping skew</source>
+        <target state="translated">Odchylenie mapowania wartości DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC value range maximum" xml:space="preserve">
         <source>DDC value range maximum</source>
+        <target state="translated">Maksymalny zakres wartości DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC value range minimum" xml:space="preserve">
         <source>DDC value range minimum</source>
+        <target state="translated">Minimalny zakres wartości DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC values on startup" xml:space="preserve">
         <source>DDC values on startup</source>
+        <target state="translated">Wartości DDC przy uruchamianiu</target>
         <note/>
       </trans-unit>
       <trans-unit id="DDC, XDR/HDR upscaling, EDID overrides are not available. Please open the app in native mode - to achieve this, unselect 'Open using Rosetta' in the app's Info sheet!" xml:space="preserve">
         <source>DDC, XDR/HDR upscaling, EDID overrides are not available. Please open the app in native mode - to achieve this, unselect 'Open using Rosetta' in the app's Info sheet!</source>
+        <target state="translated">DDC, skalowanie XDR/HDR i nadpisania EDID nie są dostępne. Otwórz aplikację w trybie natywnym – aby to zrobić, odznacz opcję „Otwórz przy użyciu Rosetty” w panelu Informacje o aplikacji!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Data link" xml:space="preserve">
         <source>Data link</source>
+        <target state="translated">Łącze danych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date of manufacture" xml:space="preserve">
@@ -3227,10 +3343,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Deactivate and Buy or Enter New License" xml:space="preserve">
         <source>Deactivate and Buy or Enter New License</source>
+        <target state="translated">Dezaktywuj i kup lub wprowadź nową licencję</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease Apple Keyboard brightness" xml:space="preserve">
         <source>Decrease Apple Keyboard brightness</source>
+        <target state="translated">Zmniejsz podświetlenie klawiatury Apple</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease Night Shift effect" xml:space="preserve">
@@ -3240,18 +3358,22 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Decrease brightness" xml:space="preserve">
         <source>Decrease brightness</source>
+        <target state="translated">Zmniejsz jasność</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease brightness - fine scale" xml:space="preserve">
         <source>Decrease brightness - fine scale</source>
+        <target state="translated">Zmniejsz jasność – skala drobna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease contrast" xml:space="preserve">
         <source>Decrease contrast</source>
+        <target state="translated">Zmniejsz kontrast</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease contrast - fine scale" xml:space="preserve">
         <source>Decrease contrast - fine scale</source>
+        <target state="translated">Zmniejsz kontrast – skala drobna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease gamma" xml:space="preserve">
@@ -3261,6 +3383,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Decrease resolution or magnification" xml:space="preserve">
         <source>Decrease resolution or magnification</source>
+        <target state="translated">Zmniejsz rozdzielczość lub powiększenie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease volume" xml:space="preserve">
@@ -3270,6 +3393,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Decrease volume - fine scale" xml:space="preserve">
         <source>Decrease volume - fine scale</source>
+        <target state="translated">Zmniejsz głośność – skala drobna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
@@ -3279,6 +3403,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Default Display" xml:space="preserve">
         <source>Default Display</source>
+        <target state="translated">Domyślny wyświetlacz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default Group" xml:space="preserve">
@@ -3298,62 +3423,77 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Default resolution" xml:space="preserve">
         <source>Default resolution</source>
+        <target state="translated">Domyślna rozdzielczość</target>
         <note/>
       </trans-unit>
       <trans-unit id="Define action to get/pull data" xml:space="preserve">
         <source>Define action to get/pull data</source>
+        <target state="translated">Zdefiniuj akcję pobierania danych</target>
         <note/>
       </trans-unit>
       <trans-unit id="Define the crop area either by drawing the crop rectangle on the stream source screen or by keyboard shortcuts." xml:space="preserve">
         <source>Define the crop area either by drawing the crop rectangle on the stream source screen or by keyboard shortcuts.</source>
+        <target state="translated">Określ obszar przycinania, rysując prostokąt przycinania na źródłowym ekranie strumienia lub używając skrótów klawiaturowych.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines how many logical steps the entire range is divided into. By default, it matches the number of fine steps available in the native macOS OSD (64)." xml:space="preserve">
         <source>Defines how many logical steps the entire range is divided into. By default, it matches the number of fine steps available in the native macOS OSD (64).</source>
+        <target state="translated">Określa, na ile logicznych kroków podzielony jest cały zakres. Domyślnie odpowiada liczbie drobnych kroków dostępnych w natywnym OSD macOS (64).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines the TCP port the built-in HTTP server listens to." xml:space="preserve">
         <source>Defines the TCP port the built-in HTTP server listens to.</source>
+        <target state="translated">Określa port TCP, na którym nasłuchuje wbudowany serwer HTTP.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines the diagonal size the system perceives the display. If used for mirroring/streaming, it might optionally be matched to the target screen. Safe to leave empty as default. With custom resolution list of varying aspect ratios the actual reported size may be different." xml:space="preserve">
         <source>Defines the diagonal size the system perceives the display. If used for mirroring/streaming, it might optionally be matched to the target screen. Safe to leave empty as default. With custom resolution list of varying aspect ratios the actual reported size may be different.</source>
+        <target state="translated">Określa przekątną, jaką system postrzega dla wyświetlacza. W przypadku duplikowania/strumieniowania może opcjonalnie odpowiadać ekranowi docelowemu. Można pozostawić puste – użyta zostanie wartość domyślna. Przy niestandardowej liście rozdzielczości o różnych proporcjach rzeczywisty zgłaszany rozmiar może się różnić.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines the lower bound of brightness control in nits. Use 0 to allow full continuous dimming to black." xml:space="preserve">
         <source>Defines the lower bound of brightness control in nits. Use 0 to allow full continuous dimming to black.</source>
+        <target state="translated">Określa dolną granicę sterowania jasnością w nitach. Ustaw 0, aby umożliwić pełne, ciągłe przyciemnianie do czerni.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines the number of logical steps in a fine adjustment step. By default, this equals one-quarter of a chiclet in the native macOS OSD (1 logical step)." xml:space="preserve">
         <source>Defines the number of logical steps in a fine adjustment step. By default, this equals one-quarter of a chiclet in the native macOS OSD (1 logical step).</source>
+        <target state="translated">Określa liczbę logicznych kroków w pojedynczym drobnym kroku regulacji. Domyślnie odpowiada jednej czwartej „przycisku” w natywnym OSD macOS (1 krok logiczny).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines the number of logical steps in a standard adjustment step. By default, this equals one full chiclet of the native macOS OSD (4 steps per chiclet; 16 chiclets × 4 steps = 64 total steps)." xml:space="preserve">
         <source>Defines the number of logical steps in a standard adjustment step. By default, this equals one full chiclet of the native macOS OSD (4 steps per chiclet; 16 chiclets × 4 steps = 64 total steps).</source>
+        <target state="translated">Określa liczbę logicznych kroków w standardowym kroku regulacji. Domyślnie odpowiada pełnemu „przyciskowi” w natywnym OSD macOS (4 kroki na przycisk; 16 przycisków × 4 kroki = 64 kroki łącznie).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Defines the upper bound of brightness control in nits. Use 1000 for only allowing up to sustained full screen brightness." xml:space="preserve">
         <source>Defines the upper bound of brightness control in nits. Use 1000 for only allowing up to sustained full screen brightness.</source>
+        <target state="translated">Określa górną granicę sterowania jasnością w nitach. Ustaw 1000, aby ograniczyć jasność do pełnej wartości ekranu.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Degrees" xml:space="preserve">
         <source>Degrees</source>
+        <target state="translated">Stopnie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delay between commands" xml:space="preserve">
         <source>Delay between commands</source>
+        <target state="translated">Opóźnienie między poleceniami</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
+        <target state="translated">Usuń</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Control…" xml:space="preserve">
         <source>Delete Control…</source>
+        <target state="translated">Usuń element sterujący…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Custom Control?" xml:space="preserve">
         <source>Delete Custom Control?</source>
+        <target state="translated">Usunąć niestandardowy element sterujący?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete Data" xml:space="preserve">
@@ -3363,10 +3503,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Delete Pairing Data" xml:space="preserve">
         <source>Delete Pairing Data</source>
+        <target state="translated">Usuń dane parowania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delta syncing" xml:space="preserve">
         <source>Delta syncing</source>
+        <target state="translated">Synchronizacja delta</target>
         <note/>
       </trans-unit>
       <trans-unit id="Description" xml:space="preserve">
@@ -3376,30 +3518,37 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Detachable app menu" xml:space="preserve">
         <source>Detachable app menu</source>
+        <target state="translated">Odłączane menu aplikacji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Detached app menu alpha level" xml:space="preserve">
         <source>Detached app menu alpha level</source>
+        <target state="translated">Poziom przezroczystości odłączanego menu aplikacji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Detailed DDC capabilities report" xml:space="preserve">
         <source>Detailed DDC capabilities report</source>
+        <target state="translated">Szczegółowy raport możliwości DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Detect DDC Capabilities…" xml:space="preserve">
         <source>Detect DDC Capabilities…</source>
+        <target state="translated">Wykryj możliwości DDC…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Detected some interference…" xml:space="preserve">
         <source>Detected some interference…</source>
+        <target state="translated">Wykryto pewne zakłócenia…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Determines the placement of the OSD. Use 'Classic' for a more traditional (pre-macOS Tahoe) OSD placement and appearance." xml:space="preserve">
         <source>Determines the placement of the OSD. Use 'Classic' for a more traditional (pre-macOS Tahoe) OSD placement and appearance.</source>
+        <target state="translated">Określa położenie OSD. Wybierz „Classic” dla bardziej tradycyjnego rozmieszczenia i wyglądu OSD (sprzed macOS Tahoe).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Determines where the protected display should be positioned relative to the specified display. If you want to position the protected display to one of the corners, select either the relevant horizontal or vertical side and specify the offsets appropriately." xml:space="preserve">
         <source>Determines where the protected display should be positioned relative to the specified display. If you want to position the protected display to one of the corners, select either the relevant horizontal or vertical side and specify the offsets appropriately.</source>
+        <target state="translated">Określa, gdzie chroniony wyświetlacz ma być umieszczony względem wskazanego wyświetlacza. Aby ustawić chroniony wyświetlacz w rogu, wybierz odpowiednią stronę poziomą lub pionową i wprowadź odpowiednie przesunięcia.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Determines whether display is affected by keyboard adjustments (video/audio controls)." xml:space="preserve">
@@ -3414,34 +3563,42 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Device Control" xml:space="preserve">
         <source>Device Control</source>
+        <target state="translated">Sterowanie urządzeniem</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device IP address" xml:space="preserve">
         <source>Device IP address</source>
+        <target state="translated">Adres IP urządzenia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device control settings" xml:space="preserve">
         <source>Device control settings</source>
+        <target state="translated">Ustawienia sterowania urządzeniem</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device specific features can be configured and bound to predefined or custom controls configured under Displays &gt; Overview &gt; Custom Controls." xml:space="preserve">
         <source>Device specific features can be configured and bound to predefined or custom controls configured under Displays &gt; Overview &gt; Custom Controls.</source>
+        <target state="translated">Funkcje specyficzne dla urządzenia można konfigurować i przypisywać do predefiniowanych lub niestandardowych elementów sterowania skonfigurowanych w sekcji Wyświetlacze &gt; Przegląd &gt; Niestandardowe elementy sterowania.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device type" xml:space="preserve">
         <source>Device type</source>
+        <target state="translated">Typ urządzenia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Device type identifier" xml:space="preserve">
         <source>Device type identifier</source>
+        <target state="translated">Identyfikator typu urządzenia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dim Displays" xml:space="preserve">
         <source>Dim Displays</source>
+        <target state="translated">Przyciemnij wyświetlacze</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dim all displays." xml:space="preserve">
         <source>Dim all displays.</source>
+        <target state="translated">Przyciemnij wszystkie ekrany.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dim display brightness on screen saver or lock" xml:space="preserve">
@@ -3451,10 +3608,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices." xml:space="preserve">
         <source>Dim the disconnected display (using the currently selected control method for the display) on platforms that do not enable putting a disconnected display to sleep. Fully turns off backlight on compatible devices.</source>
+        <target state="translated">Przyciemnij niepodłączony wyświetlacz (korzystając z aktualnie wybranej metody sterowania dla wyświetlacza) na platformach, które nie pozwalają na uśpienie niepodłączonego wyświetlacza. Całkowicie wyłącza podświetlenie na kompatybilnych urządzeniach.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dimensions" xml:space="preserve">
         <source>Dimensions</source>
+        <target state="translated">Wymiary</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dimensions (unrotated)" xml:space="preserve">
@@ -3464,14 +3623,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Direct I2C communication" xml:space="preserve">
         <source>Direct I2C communication</source>
+        <target state="translated">Bezpośrednia komunikacja I2C</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable" xml:space="preserve">
         <source>Disable</source>
+        <target state="translated">Wyłącz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable All Groups" xml:space="preserve">
         <source>Disable All Groups</source>
+        <target state="translated">Wyłącz wszystkie grupy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable All Protections" xml:space="preserve">
@@ -3481,6 +3643,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disable Auto-Connect" xml:space="preserve">
         <source>Disable Auto-Connect</source>
+        <target state="translated">Wyłącz automatyczne łączenie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable Both in HDR Mode" xml:space="preserve">
@@ -3490,10 +3653,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disable DDC For This Display" xml:space="preserve">
         <source>Disable DDC For This Display</source>
+        <target state="translated">Wyłącz DDC dla tego wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable this for a classic look." xml:space="preserve">
         <source>Disable this for a classic look.</source>
+        <target state="translated">Wyłącz to, aby uzyskać klasyczny wygląd.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
@@ -3503,6 +3668,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disabled by default to avoid accidental value changes." xml:space="preserve">
         <source>Disabled by default to avoid accidental value changes.</source>
+        <target state="translated">Nieaktywne domyślnie, aby uniknąć przypadkowych zmian wartości.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabling this allows more direct video adjustments by removing graceful transition smoothing. Also reduces the number of operations for DDC control." xml:space="preserve">
@@ -3512,6 +3678,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disassociate" xml:space="preserve">
         <source>Disassociate</source>
+        <target state="translated">Rozłącz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disassociate All" xml:space="preserve">
@@ -3536,15 +3703,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Discard Calibration" xml:space="preserve">
         <source>Discard Calibration</source>
+        <target state="translated">Odrzuć kalibrację</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard Display Group" xml:space="preserve">
         <source>Discard Display Group</source>
+        <target state="translated">Odrzucić Grupę wyświetlaczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard Virtual Screen" xml:space="preserve">
         <source>Discard Virtual Screen</source>
-        <target state="translated">Odrzuć wirtualny wyświetlacz</target>
+        <target state="translated">Odrzuć wirtualny ekran</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard…" xml:space="preserve">
@@ -3574,7 +3743,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disconnect All Virtual Screens" xml:space="preserve">
         <source>Disconnect All Virtual Screens</source>
-        <target state="translated">Rozłącz wszystkie wirtualne wyświetlacze</target>
+        <target state="translated">Rozłącz wszystkie wirtualne ekrany</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect Display" xml:space="preserve">
@@ -3584,30 +3753,32 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disconnect Virtual Screen" xml:space="preserve">
         <source>Disconnect Virtual Screen</source>
-        <target state="translated">Rozłącz wirtualny wyświetlacz</target>
+        <target state="translated">Rozłącz wirtualny ekran</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect all disassociated virtual screens" xml:space="preserve">
         <source>Disconnect all disassociated virtual screens</source>
+        <target state="translated">Rozłącz wszystkie niepowiązane wirtualne ekrany</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect all displays except main" xml:space="preserve">
         <source>Disconnect all displays except main</source>
-        <target state="translated">Rozłącz wszystkie wyświetlacze oprócz głównego</target>
+        <target state="translated">Odłącz wszystkie wyświetlacze oprócz głównego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect and reconnect" xml:space="preserve">
         <source>Disconnect and reconnect</source>
+        <target state="translated">Rozłącz i połącz ponownie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect built-in display when an external display is connected" xml:space="preserve">
         <source>Disconnect built-in display when an external display is connected</source>
-        <target state="translated">Rozłącz wbudowany wyświetlacz po podłączeniu wyświetlacza zewnętrznego</target>
+        <target state="translated">Odłącz wbudowany wyświetlacz po podłączeniu wyświetlacza zewnętrznego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect display" xml:space="preserve">
         <source>Disconnect display</source>
-        <target state="translated">Rozłącz wyświetlacz</target>
+        <target state="translated">Odłącz wyświetlacz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect reconnected displays upon wake" xml:space="preserve">
@@ -3617,49 +3788,57 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Disconnect virtual screen (if not associated)" xml:space="preserve">
         <source>Disconnect virtual screen (if not associated)</source>
-        <target state="translated">Rozłącz wirtualny wyświetlacz (jeśli nie jest powiązany)</target>
+        <target state="translated">Rozłącz wirtualny ekran (jeśli nie jest powiązany)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect virtual screens upon lock or screen saver and connect when returning to the desktop" xml:space="preserve">
         <source>Disconnect virtual screens upon lock or screen saver and connect when returning to the desktop</source>
-        <target state="translated">Rozłącz ekrany wirtualne po zablokowaniu lub wygaszaczu ekranu i połącz po powrocie do pulpitu.</target>
+        <target state="translated">Rozłącz wirtualne ekrany po zablokowaniu lub wygaszaczu ekranu i połącz po powrocie do pulpitu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnected" xml:space="preserve">
         <source>Disconnected</source>
-        <target state="translated">Rozłączony </target>
+        <target state="translated">Rozłączony</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnected (with sleep)" xml:space="preserve">
         <source>Disconnected (with sleep)</source>
+        <target state="translated">Rozłączono (z uśpieniem)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnecting Displays" xml:space="preserve">
         <source>Disconnecting Displays</source>
+        <target state="translated">Odłączanie wyświetlaczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnecting a Display" xml:space="preserve">
         <source>Disconnecting a Display</source>
+        <target state="translated">Odłączanie wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnecting a non-natively connected or virtual screen works in a sense that it is removed from the display layout - but usually it does not mean the screen is really disconnected." xml:space="preserve">
         <source>Disconnecting a non-natively connected or virtual screen works in a sense that it is removed from the display layout - but usually it does not mean the screen is really disconnected.</source>
+        <target state="translated">Rozłączenie wirtualnego lub nienatywnie podłączonego ekranu usuwa go z układu wyświetlaczy, ale zwykle nie oznacza jego fizycznego odłączenia.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnecting all displays might prevent you from interacting with your Mac!" xml:space="preserve">
         <source>Disconnecting all displays might prevent you from interacting with your Mac!</source>
+        <target state="translated">Rozłączenie wszystkich wyświetlaczy może uniemożliwić interakcję z twoim komputerem Mac!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnecting virtual screens" xml:space="preserve">
         <source>Disconnecting virtual screens</source>
+        <target state="translated">Rozłączenie wirtualnych ekranów</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
+        <target state="translated">Odrzuć</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dismiss Hint" xml:space="preserve">
         <source>Dismiss Hint</source>
+        <target state="translated">Odrzuć wskazówkę</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dispatch OSD notifications" xml:space="preserve">
@@ -3669,10 +3848,12 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display" xml:space="preserve">
         <source>Display</source>
+        <target state="translated">Wyświetlacz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Adaptations" xml:space="preserve">
         <source>Display Adaptations</source>
+        <target state="translated">Adaptacje wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Connect" xml:space="preserve">
@@ -3691,6 +3872,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display Disconnect" xml:space="preserve">
         <source>Display Disconnect</source>
+        <target state="translated">Odłączenie wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display EDID" xml:space="preserve">
@@ -3723,6 +3905,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display Miscellaneous" xml:space="preserve">
         <source>Display Miscellaneous</source>
+        <target state="translated">Różności związane z wyświetlaczem</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Mode" xml:space="preserve">
@@ -3732,6 +3915,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display Mode Menu" xml:space="preserve">
         <source>Display Mode Menu</source>
+        <target state="translated">Tryby menu ustawień wyświetlania</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Notch" xml:space="preserve">
@@ -3741,14 +3925,17 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display current value in the OSD" xml:space="preserve">
         <source>Display current value in the OSD</source>
+        <target state="translated">Wyświetl bieżącą wartość w menu ekranowym (OSD)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group is configured to be always active regardless of the presence of group members." xml:space="preserve">
         <source>Display group is configured to be always active regardless of the presence of group members.</source>
+        <target state="translated">Grupa wyświetlaczy jest skonfigurowana tak, aby była zawsze aktywna niezależnie od obecności jej członków.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group is currently active" xml:space="preserve">
         <source>Display group is currently active</source>
+        <target state="translated">Grupa wyświetlaczy jest obecnie aktywna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group is inactive" xml:space="preserve">
@@ -3798,6 +3985,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display mode changed for %@." xml:space="preserve">
         <source>Display mode changed for %@.</source>
+        <target state="translated">Tryb wyświetlania zmieniony dla %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display mode submenu settings" xml:space="preserve">
@@ -3826,6 +4014,7 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Display the brightness level in nits on the brightness OSD for native XDR upscaling" xml:space="preserve">
         <source>Display the brightness level in nits on the brightness OSD for native XDR upscaling</source>
+        <target state="translated">Wyświetlaj poziom jasności w nitach na pasku OSD podczas natywnego skalowania XDR</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display to match" xml:space="preserve">
@@ -3850,37 +4039,46 @@ Określenie długości odczytu jest opcjonalne – pozostaw pole puste, aby wł�
       </trans-unit>
       <trans-unit id="Displays And Virtual Screens" xml:space="preserve">
         <source>Displays And Virtual Screens</source>
-        <target state="translated">Ekrany i wirtualne wyświetlacze</target>
+        <target state="translated">Wyświetlacze i wirtualne ekrany</target>
         <note/>
       </trans-unit>
       <trans-unit id="Displays labels for sliders to help you quickly identify their function." xml:space="preserve">
         <source>Displays labels for sliders to help you quickly identify their function.</source>
+        <target state="translated">Wyświetla etykiety suwaków, aby ułatwić szybką identyfikację ich funkcji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Displays slider labels and their current values for easier identification and greater precision." xml:space="preserve">
         <source>Displays slider labels and their current values for easier identification and greater precision.</source>
+        <target state="translated">Wyświetla etykiety oraz bieżące wartości suwaków, co ułatwia ich identyfikację i zapewnia większą precyzję ustawień.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Displays that were added to the list previously are shown even when not detected." xml:space="preserve">
         <source>Displays that were added to the list previously are shown even when not detected.</source>
+        <target state="translated">Wyświetlacze dodane wcześniej do listy są widoczne nawet wtedy, gdy nie zostaną wykryte.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Displays will turn blank for a while and you will not be able to interact with your Mac. The process should take about 2-4 seconds.&#10;&#10;The process does not work for the built-in display (reboot needed). The operation might cause some Macs to enter sleep mode." xml:space="preserve">
         <source>Displays will turn blank for a while and you will not be able to interact with your Mac. The process should take about 2-4 seconds.
 
 The process does not work for the built-in display (reboot needed). The operation might cause some Macs to enter sleep mode.</source>
+        <target state="translated">Ekrany na chwilę zgasną i nie będzie można korzystać z komputera Mac. Proces powinien potrwać około 2–4 sekund.
+
+Proces ten nie dotyczy wbudowanego wyświetlacza (wymagane ponowne uruchomienie). Operacja może spowodować przejście niektórych komputerów Mac w tryb uśpienia.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disregard SDR peak brightness adjustment availability" xml:space="preserve">
         <source>Disregard SDR peak brightness adjustment availability</source>
+        <target state="translated">Zignoruj dostępność regulacji szczytowej jasności SDR</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do not apply to the internal display" xml:space="preserve">
         <source>Do not apply to the internal display</source>
+        <target state="translated">Nie stosuj do wbudowanego wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do not reconnect" xml:space="preserve">
         <source>Do not reconnect</source>
+        <target state="translated">Nie łącz ponownie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do not restore combined brightness and software adjustments" xml:space="preserve">
@@ -3890,10 +4088,12 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Do not synchronize changes made via the app." xml:space="preserve">
         <source>Do not synchronize changes made via the app.</source>
+        <target state="translated">Nie synchronizuj zmian wprowadzonych przez aplikację.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do nothing" xml:space="preserve">
         <source>Do nothing</source>
+        <target state="translated">Nic nie rób</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do you want to create the  %@ Apple Display Preset and reboot the system?&#10;&#10;Please make sure you saved all your files and closed all applications before proceeding.&#10;&#10;!Administrative credentials are required for this operation." xml:space="preserve">
@@ -3911,20 +4111,22 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Do you want to disassociate all virtual screens from all displays?" xml:space="preserve">
         <source>Do you want to disassociate all virtual screens from all displays?</source>
+        <target state="translated">Czy chcesz odłączyć wszystkie wirtualne ekrany od wszystkich wyświetlaczy?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do you want to discard all virtual screens?" xml:space="preserve">
         <source>Do you want to discard all virtual screens?</source>
-        <target state="translated">Czy chcesz odrzucić wszystkie wirtualne wyświetlacze?</target>
+        <target state="translated">Czy chcesz odrzucić wszystkie wirtualne ekrany?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do you want to discard the virtual screen?" xml:space="preserve">
         <source>Do you want to discard the virtual screen?</source>
-        <target state="translated">Czy chcesz odrzucić wirtualny wyświetlacz?</target>
+        <target state="translated">Czy chcesz odrzucić wirtualny ekran?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do you want to proceed?" xml:space="preserve">
         <source>Do you want to proceed?</source>
+        <target state="translated">Czy chcesz kontynuować?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do you want to remove the  %@ Apple Display Preset? This disables native XDR brightness upscaling. Removing the preset does not require a reboot but you will not be able to recreate the Preset without rebooting." xml:space="preserve">
@@ -3933,14 +4135,17 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Does not apply to hardware-only brightness control." xml:space="preserve">
         <source>Does not apply to hardware-only brightness control.</source>
+        <target state="translated">Nie dotyczy sprzętowej regulacji jasności.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Don't show this warning again!" xml:space="preserve">
         <source>Don't show this warning again!</source>
+        <target state="translated">Nie pokazuj więcej tego ostrzeżenia!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Don't switch input" xml:space="preserve">
         <source>Don't switch input</source>
+        <target state="translated">Nie przełączaj wejścia</target>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -3950,22 +4155,27 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Dot Screen" xml:space="preserve">
         <source>Dot Screen</source>
+        <target state="translated">Raster kropkowy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Drag the app menu off the menu bar area (by holding the empty bottom area of the app menu) and make it persistently available." xml:space="preserve">
         <source>Drag the app menu off the menu bar area (by holding the empty bottom area of the app menu) and make it persistently available.</source>
+        <target state="translated">Przeciągnij menu aplikacji poza obszar paska menu (trzymając za pusty obszar na dole menu), aby było ono stale dostępne.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Draw Crop Area On Screen…" xml:space="preserve">
         <source>Draw Crop Area On Screen…</source>
+        <target state="translated">Narysuj obszar kadrowania na ekranie…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duplicate Display Group" xml:space="preserve">
         <source>Duplicate Display Group</source>
+        <target state="translated">Duplikuj grupę wyświetlaczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duplicate…" xml:space="preserve">
         <source>Duplicate…</source>
+        <target state="translated">Duplikuj…</target>
         <note/>
       </trans-unit>
       <trans-unit id="EDID Retrieval Method" xml:space="preserve">
@@ -3990,6 +4200,7 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="EDID write communication settings" xml:space="preserve">
         <source>EDID write communication settings</source>
+        <target state="translated">Ustawienia komunikacji zapisu EDID</target>
         <note/>
       </trans-unit>
       <trans-unit id="EDID, or Extended Display Identification Data, is a standard for displays to convey their capabilities to a connected computer, including resolution, supported video formats, timings, and manufacturer information." xml:space="preserve">
@@ -3999,22 +4210,27 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="EZ ADJUST Service Menu" xml:space="preserve">
         <source>EZ ADJUST Service Menu</source>
+        <target state="translated">Menu serwisowe EZ ADJUST</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edge Work" xml:space="preserve">
         <source>Edge Work</source>
+        <target state="translated">Praca przy krawędziach</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edges" xml:space="preserve">
         <source>Edges</source>
+        <target state="translated">Krawędzie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
+        <target state="translated">Edytuj</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit Settings…" xml:space="preserve">
         <source>Edit Settings…</source>
+        <target state="translated">Edytuj ustawienia…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edit default resolution" xml:space="preserve">
@@ -4044,14 +4260,17 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Edited default resolution" xml:space="preserve">
         <source>Edited default resolution</source>
+        <target state="translated">Edytowana domyślna rozdzielczość</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edited display role" xml:space="preserve">
         <source>Edited display role</source>
+        <target state="translated">Edytowana rola wyświetlacza</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edited native resolution" xml:space="preserve">
         <source>Edited native resolution</source>
+        <target state="translated">Edytowana natywna rozdzielczość</target>
         <note/>
       </trans-unit>
       <trans-unit id="Edited system display name" xml:space="preserve">
@@ -4061,14 +4280,17 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Elevated dimming or image adjustment overlay priority" xml:space="preserve">
         <source>Elevated dimming or image adjustment overlay priority</source>
+        <target state="translated">Podwyższony priorytet nakładki przyciemniania lub regulacji obrazu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>Enable</source>
+        <target state="translated">Włącz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable All Groups" xml:space="preserve">
         <source>Enable All Groups</source>
+        <target state="translated">Włącz wszystkie grupy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable All Protections" xml:space="preserve">
@@ -4128,10 +4350,12 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enable UI scale matching" xml:space="preserve">
         <source>Enable UI scale matching</source>
+        <target state="translated">Włącz dopasowanie skali interfejsu graficznego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable Video Filter Window" xml:space="preserve">
         <source>Enable Video Filter Window</source>
+        <target state="translated">Włącz okno filtra wideo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable color table adjustments" xml:space="preserve">
@@ -4141,11 +4365,12 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enable compositor filter layer" xml:space="preserve">
         <source>Enable compositor filter layer</source>
+        <target state="translated">Włącz warstwę filtra kompozytora</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable connect/disconnect option for displays" xml:space="preserve">
         <source>Enable connect/disconnect option for displays</source>
-        <target state="translated">Włącz opcję połączenia/rozłączenia dla wyświetlaczy</target>
+        <target state="translated">Włącz opcję podłączenia/odłączenia dla wyświetlaczy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable custom URL scheme access" xml:space="preserve">
@@ -4160,14 +4385,17 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enable flexible scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role, override display EDID. Please note that all displays with the same vendor and model number are affected by the changes!" xml:space="preserve">
         <source>Enable flexible scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role, override display EDID. Please note that all displays with the same vendor and model number are affected by the changes!</source>
+        <target state="translated">Włącz elastyczne skalowanie, twórz niestandardowe rozdzielczości skalowane, modyfikuj rozdzielczości natywne i domyślne, zmieniaj nazwę oraz rolę wyświetlacza, a także nadpisuj EDID wyświetlacza. Pamiętaj, że zmiany dotyczą wszystkich wyświetlaczy o tym samym producencie i numerze modelu!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable flexible scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role. Please note that all displays with the same vendor and model number are affected by the changes!" xml:space="preserve">
         <source>Enable flexible scaling, create custom scaled resolutions, modify native and default resolutions, change display name and role. Please note that all displays with the same vendor and model number are affected by the changes!</source>
+        <target state="translated">Włącz elastyczne skalowanie, twórz niestandardowe rozdzielczości skalowane, modyfikuj rozdzielczości natywne i domyślne oraz zmieniaj nazwę i rolę wyświetlacza. Pamiętaj, że zmiany dotyczą wszystkich wyświetlaczy o tym samym producencie i numerze modelu!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable full service menu access on this TV?" xml:space="preserve">
         <source>Enable full service menu access on this TV?</source>
+        <target state="translated">Włączyć pełny dostęp do menu serwisowego na tym telewizorze?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable integrated HTTP server" xml:space="preserve">
@@ -4177,10 +4405,12 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enable integration features" xml:space="preserve">
         <source>Enable integration features</source>
+        <target state="translated">Włącz funkcje integracji</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable layout protection" xml:space="preserve">
         <source>Enable layout protection</source>
+        <target state="translated">Włącz ochronę układu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable lower than 720p resolutions" xml:space="preserve">
@@ -4195,26 +4425,32 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enable native auto brightness management" xml:space="preserve">
         <source>Enable native auto brightness management</source>
+        <target state="translated">Włącz natywne automatyczne zarządzanie jasnością</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable or disable auto brightness for an Apple display." xml:space="preserve">
         <source>Enable or disable auto brightness for an Apple display.</source>
+        <target state="translated">Włącz lub wyłącz automatyczną jasność dla wyświetlacza Apple.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable or disable native brightness upscaling for an XDR display." xml:space="preserve">
         <source>Enable or disable native brightness upscaling for an XDR display.</source>
+        <target state="translated">Włącz lub wyłącz natywne skalowanie jasności dla wyświetlacza XDR.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable or disable software brightness upscaling for a display." xml:space="preserve">
         <source>Enable or disable software brightness upscaling for a display.</source>
+        <target state="translated">Włącz lub wyłącz programowe skalowanie jasności dla wyświetlacza.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable picture control" xml:space="preserve">
         <source>Enable picture control</source>
+        <target state="translated">Włącz kontrolę obrazu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable power control" xml:space="preserve">
         <source>Enable power control</source>
+        <target state="translated">Włącz kontrolę zasilaniem</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable resolutions over 8K (4K HiDPI)" xml:space="preserve">
@@ -4239,7 +4475,7 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enable software-based video adjustments" xml:space="preserve">
         <source>Enable software-based video adjustments</source>
-        <target state="translated">Włączanie programowych regulacji obrazu</target>
+        <target state="translated">Włącz programowe korekty obrazu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable synchronization for this display group" xml:space="preserve">
@@ -4274,6 +4510,7 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enables resolutions up to 16Kx16K (8Kx8K HiDPI) for virtual screens and flexible scaling. Using 8K+ virtual screens might cause stability issues. Flexible scaling needs to be reapplied. Maximum native resolutions have limitations depending on specific macOS version and GPU type." xml:space="preserve">
         <source>Enables resolutions up to 16Kx16K (8Kx8K HiDPI) for virtual screens and flexible scaling. Using 8K+ virtual screens might cause stability issues. Flexible scaling needs to be reapplied. Maximum native resolutions have limitations depending on specific macOS version and GPU type.</source>
+        <target state="translated">Umożliwia rozdzielczości do 16K×16K (8K×8K HiDPI) dla wirtualnych ekranów i elastycznego skalowania. Korzystanie z wirtualnych ekranów 8K+ może powodować problemy ze stabilnością. Elastyczne skalowanie wymaga ponownego zastosowania. Maksymalne natywne rozdzielczości są ograniczone w zależności od wersji macOS i typu GPU.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling this option removes the menu bar icon when only this and other similarly marked displays are present. Use this setting when you don't need any of the app's features for this display and want to free up menu bar space." xml:space="preserve">
@@ -4294,7 +4531,7 @@ Please make sure you saved all your files and closed all applications before pro
       </trans-unit>
       <trans-unit id="Enforce virtual screen mirroring" xml:space="preserve">
         <source>Enforce virtual screen mirroring</source>
-        <target state="translated">Wymuszanie klonowania wirtualnego wyświetlacza</target>
+        <target state="translated">Wymuś klonowanie wirtualnego ekranu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Event subscription" xml:space="preserve">
@@ -4523,26 +4760,32 @@ Removing them is safe—macOS will recreate any necessary profiles the next time
       </trans-unit>
       <trans-unit id="Full Screen Stream" xml:space="preserve">
         <source>Full Screen Stream</source>
+        <target state="translated">Strumień pełnoekranowy</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full Screen Window Mode" xml:space="preserve">
         <source>Full Screen Window Mode</source>
+        <target state="translated">Tryb okna pełnoekranowego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full Service Menu Access" xml:space="preserve">
         <source>Full Service Menu Access</source>
+        <target state="translated">Pełny dostęp do menu serwisowego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full control" xml:space="preserve">
         <source>Full control</source>
+        <target state="translated">Pełna kontrola</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full display sleep mode is not available on Intel Macs." xml:space="preserve">
         <source>Full display sleep mode is not available on Intel Macs.</source>
+        <target state="translated">Pełny tryb uśpienia wyświetlacza nie jest dostępny na komputerach Mac z procesorami Intel.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full screen streams looks best when the target display is set to its native resolution." xml:space="preserve">
         <source>Full screen streams looks best when the target display is set to its native resolution.</source>
+        <target state="translated">Strumienie pełnoekranowe wyglądają najlepiej, gdy wyświetlacz docelowy jest ustawiony na swoją natywną rozdzielczość.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Fully dim display on disconnect" xml:space="preserve">
@@ -4552,6 +4795,7 @@ Removing them is safe—macOS will recreate any necessary profiles the next time
       </trans-unit>
       <trans-unit id="Fully expands the available brightness range for SDR content at a system level and allows for more dimming range as well. Superior to all other upscaling methods. When inactive, the app falls back to software based XDR upscaling methods." xml:space="preserve">
         <source>Fully expands the available brightness range for SDR content at a system level and allows for more dimming range as well. Superior to all other upscaling methods. When inactive, the app falls back to software based XDR upscaling methods.</source>
+        <target state="translated">W pełni rozszerza dostępny zakres jasności dla treści SDR na poziomie systemowym i umożliwia również większy zakres przyciemniania. Przewyższa wszystkie inne metody skalowania. Gdy funkcja jest nieaktywna, aplikacja korzysta z programowych metod skalowania XDR.</target>
         <note/>
       </trans-unit>
       <trans-unit id="GPU Dithering" xml:space="preserve">
@@ -4601,6 +4845,7 @@ Removing them is safe—macOS will recreate any necessary profiles the next time
       </trans-unit>
       <trans-unit id="Gaussian Blur" xml:space="preserve">
         <source>Gaussian Blur</source>
+        <target state="translated">Rozmycie Gaussa</target>
         <note/>
       </trans-unit>
       <trans-unit id="General Settings" xml:space="preserve">
@@ -4615,22 +4860,27 @@ Removing them is safe—macOS will recreate any necessary profiles the next time
       </trans-unit>
       <trans-unit id="Get Custom DDC value" xml:space="preserve">
         <source>Get Custom DDC value</source>
+        <target state="translated">Pobierz niestandardową wartość DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get DDC value" xml:space="preserve">
         <source>Get DDC value</source>
+        <target state="translated">Pobierz wartość DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get DDC value of ${ddcCommand} from ${displayEntity}." xml:space="preserve">
         <source>Get DDC value of ${ddcCommand} from ${displayEntity}.</source>
+        <target state="translated">Pobierz wartość DDC polecenia ${ddcCommand} z wyświetlacza ${displayEntity}.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get DDC value of ${vcpCode} from ${displayEntity}." xml:space="preserve">
         <source>Get DDC value of ${vcpCode} from ${displayEntity}.</source>
+        <target state="translated">Pobierz wartość DDC kodu ${vcpCode} z wyświetlacza ${displayEntity}.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Image Adjustment Value" xml:space="preserve">
         <source>Get Image Adjustment Value</source>
+        <target state="translated">Pobierz wartość korekcji obrazu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get a control value using DDC from a display for a custom VCP." xml:space="preserve">
@@ -4965,6 +5215,7 @@ Removing them is safe—macOS will recreate any necessary profiles the next time
       </trans-unit>
       <trans-unit id="If you would like to use the virtual screens later, it is better to use disconnect so macOS display configuration data is preserved." xml:space="preserve">
         <source>If you would like to use the virtual screens later, it is better to use disconnect so macOS display configuration data is preserved.</source>
+        <target state="translated">Jeśli chcesz później ponownie korzystać z wirtualnych ekranów, lepiej użyć opcji „Rozłącz”, aby zachować konfigurację wyświetlaczy w macOS.</target>
         <note/>
       </trans-unit>
       <trans-unit id="If your configuration relies on configuration protection for standard operation, you might want to mute notifications about it." xml:space="preserve">
@@ -4983,6 +5234,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Ignore for built-in display auto-disconnect" xml:space="preserve">
         <source>Ignore for built-in display auto-disconnect</source>
+        <target state="translated">Ignoruj wbudowany wyświetlacz przy automatycznym odłączaniu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Image Adjustment" xml:space="preserve">
@@ -5190,7 +5442,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Keep Sidecar displays in display list after being disconnected" xml:space="preserve">
         <source>Keep Sidecar displays in display list after being disconnected</source>
-        <target state="translated">Pozostawiaj wyświetlacze Sidecar na liście po rozłączeniu</target>
+        <target state="translated">Zachowaj wyświetlacze Sidecar na liście wyświetlaczy po rozłączeniu</target>
         <note/>
       </trans-unit>
       <trans-unit id="Keep unmirrored" xml:space="preserve">
@@ -5871,10 +6123,6 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <target state="translated">Natywne skalowanie XDR</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Native XDR brightness upscaling" xml:space="preserve">
-        <source>Native XDR brightness upscaling</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="Native XDR brightness upscaling settings" xml:space="preserve">
         <source>Native XDR brightness upscaling settings</source>
         <target state="translated">Ustawienia natywnego skalowania jasności XDR</target>
@@ -6042,6 +6290,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Not detected (past disconnected)" xml:space="preserve">
         <source>Not detected (past disconnected)</source>
+        <target state="translated">Nie wykryto (wcześniej rozłączony)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Notch" xml:space="preserve">
@@ -6158,6 +6407,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="On sleep or disconnect" xml:space="preserve">
         <source>On sleep or disconnect</source>
+        <target state="translated">Podczas uśpienia lub rozłączenia</target>
         <note/>
       </trans-unit>
       <trans-unit id="On startup &amp; wake" xml:space="preserve">
@@ -6710,10 +6960,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Reconnect all disconnected displays that are detected on startup. Helps if a display is stranded as disconnected in case of an app crash or forced quit." xml:space="preserve">
         <source>Reconnect all disconnected displays that are detected on startup. Helps if a display is stranded as disconnected in case of an app crash or forced quit.</source>
+        <target state="translated">Ponownie podłącz wszystkie odłączone wyświetlacze wykryte przy starcie. Pomaga w przypadku, gdy wyświetlacz pozostanie odłączony po awarii lub wymuszonym zamknięciu aplikacji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reconnect all remaining connected virtual screens after disconnecting one" xml:space="preserve">
         <source>Reconnect all remaining connected virtual screens after disconnecting one</source>
+        <target state="translated">Ponownie połącz wszystkie pozostałe wirtualne ekrany po rozłączeniu jednego</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reconnect connected virtual screens" xml:space="preserve">
@@ -7412,6 +7664,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Select a disconnected display" xml:space="preserve">
         <source>Select a disconnected display</source>
+        <target state="translated">Wybierz odłączony wyświetlacz</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select an icon from Apple’s SF Symbols library, designed for seamless integration with the San Francisco system font across Apple platforms. For example, try: `face.smiling`." xml:space="preserve">
@@ -7746,6 +7999,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show Currently Disconnected" xml:space="preserve">
         <source>Show Currently Disconnected</source>
+        <target state="translated">Pokaż aktualnie rozłączone</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Custom Scaled Resolutions" xml:space="preserve">
@@ -7863,6 +8117,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show disconnect/connect menu option for displays. Disconnecting a display puts the display into sleep mode and removes it from the display layout. Connecting it restores the display. Disconnected displays can be reconnected with the header toggle (power button), by turning the display on/off or closing and opening the lid for MacBook displays." xml:space="preserve">
         <source>Show disconnect/connect menu option for displays. Disconnecting a display puts the display into sleep mode and removes it from the display layout. Connecting it restores the display. Disconnected displays can be reconnected with the header toggle (power button), by turning the display on/off or closing and opening the lid for MacBook displays.</source>
+        <target state="translated">Pokaż opcję menu rozłącz/podłącz dla wyświetlaczy. Rozłączenie wyświetlacza powoduje jego przejście w tryb uśpienia i usunięcie z układu wyświetlaczy. Ponowne podłączenie przywraca wyświetlacz. Rozłączone wyświetlacze można ponownie podłączyć za pomocą przycisku w nagłówku (przycisk zasilania), włączając/wyłączając wyświetlacz lub zamykając i otwierając pokrywę MacBooka.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show display modes marked as unsafe or invalid" xml:space="preserve">
@@ -8003,6 +8258,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Soft-connect or disconnect a display or virtual screen." xml:space="preserve">
         <source>Soft-connect or disconnect a display or virtual screen.</source>
+        <target state="translated">Miękkie połączenie lub rozłączenie wyświetlacza albo wirtualnego ekranu.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software XDR/HDR Upscaling and Dimming" xml:space="preserve">
@@ -8027,6 +8283,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Some displays are still disconnected!" xml:space="preserve">
         <source>Some displays are still disconnected!</source>
+        <target state="translated">Niektóre wyświetlacze są nadal rozłączone!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some displays do not support hardware brightness control in HDR mode. Enabling this for compatible displays allows brightness control while preserving unclipped HDR content." xml:space="preserve">
@@ -8366,6 +8623,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation." xml:space="preserve">
         <source>The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation.</source>
+        <target state="translated">Aplikacja może automatycznie łączyć i rozłączać ekran wirtualny w zależności od dostępności wyświetlacza(-y), z którymi jest powiązany. Może także automatycznie uruchamiać klonowanie lub strumieniowanie oraz dostosowywać orientację do powiązanego wyświetlacza.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app controls the associated audio device specified below using the native audio control methods provided by macOS." xml:space="preserve">
@@ -8419,6 +8677,7 @@ This operation does not reset the display itself.</source>
       </trans-unit>
       <trans-unit id="The built-in display is configured to be disconnected when an external display is connected. This setting will be re-enabled when the built-in display is manually disconnected again or the app is restarted." xml:space="preserve">
         <source>The built-in display is configured to be disconnected when an external display is connected. This setting will be re-enabled when the built-in display is manually disconnected again or the app is restarted.</source>
+        <target state="translated">Wbudowany wyświetlacz jest skonfigurowany tak, aby był rozłączony po podłączeniu zewnętrznego wyświetlacza. To ustawienie zostanie ponownie włączone po ręcznym rozłączeniu wbudowanego wyświetlacza lub po ponownym uruchomieniu aplikacji.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The built-in display of the iMac cannot be easily reconnected (lack of display cable, closable lid) in case of an application failure. Enable this setting with extra caution!" xml:space="preserve">
@@ -8464,6 +8723,7 @@ This operation does not reset the display itself.</source>
       </trans-unit>
       <trans-unit id="The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!" xml:space="preserve">
         <source>The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!</source>
+        <target state="translated">Wyświetlacz zostanie automatycznie rozłączony po wykryciu lub fizycznym podłączeniu, jeśli wcześniej został rozłączony za pomocą aplikacji. To ustawienie może powodować nieoczekiwane problemy (pętlę łączenia/rozłączania z niekompatybilnymi wyświetlaczami lub brak jakichkolwiek połączonych wyświetlaczy) — używaj z ostrożnością!</target>
         <note/>
       </trans-unit>
       <trans-unit id="The duplicated group will be disabled by default." xml:space="preserve">
@@ -8518,12 +8778,18 @@ Enable and configure the created display group (including layout protection) und
         <source>The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.
 
 In case of a failure, disconnect and reconnect the display physically.</source>
+        <target state="translated">Operacja może spowodować migotanie ekranu oraz zmianę trybu, jeśli bieżący tryb nie jest dostępny w fabrycznym EDID. Wyświetlacz zostanie ponownie wykryty jako inny, jeśli aktualny EDID zawiera inne identyfikatory.
+
+W przypadku niepowodzenia odłącz i podłącz wyświetlacz fizycznie.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation might cause the screen to flicker and switch mode if the existing mode is not available with the updated EDID. The display will be redetected as a different display if the EDID has different identifiers.&#10;&#10;In case of a failure, disconnect and reconnect the display physically." xml:space="preserve">
         <source>The operation might cause the screen to flicker and switch mode if the existing mode is not available with the updated EDID. The display will be redetected as a different display if the EDID has different identifiers.
 
 In case of a failure, disconnect and reconnect the display physically.</source>
+        <target state="translated">Operacja może spowodować migotanie ekranu oraz zmianę trybu, jeśli bieżący tryb nie jest dostępny w zaktualizowanym EDID. Wyświetlacz zostanie ponownie wykryty jako inny, jeśli EDID zawiera inne identyfikatory.
+
+W przypadku niepowodzenia odłącz i ponownie podłącz wyświetlacz fizycznie.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The physical dimension (used to calculate UI scaling) associated with a virtual screen is determined primarily by the 'reported diagonal size' setting which can be further modified by the 'display physical dimensions' setting when the virtual screen is connected." xml:space="preserve">
@@ -8540,6 +8806,7 @@ In case of a failure, disconnect and reconnect the display physically.</source>
       </trans-unit>
       <trans-unit id="The system might reconnect the built-in display and other displays after wake from sleep to ensure GUI access. With this option enabled, the app forcefully disconnects these displays again. Post-wake main display will not be disconnected." xml:space="preserve">
         <source>The system might reconnect the built-in display and other displays after wake from sleep to ensure GUI access. With this option enabled, the app forcefully disconnects these displays again. Post-wake main display will not be disconnected.</source>
+        <target state="translated">System może po wybudzeniu z trybu uśpienia ponownie połączyć wbudowany wyświetlacz oraz inne wyświetlacze, aby zapewnić dostęp do interfejsu użytkownika. Po włączeniu tej opcji aplikacja ponownie wymusza ich rozłączenie. Główny wyświetlacz po wybudzeniu nie zostanie rozłączony.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The time it takes for the app to enter into an active state after the system wakes from a sleep." xml:space="preserve">
@@ -8615,6 +8882,7 @@ In case of a failure, disconnect and reconnect the display physically.</source>
       </trans-unit>
       <trans-unit id="This applies both to physically connecting an external display and using the app to reconnect one. However, the app will not reconnect the built-in display if you allow all displays to be disconnected!" xml:space="preserve">
         <source>This applies both to physically connecting an external display and using the app to reconnect one. However, the app will not reconnect the built-in display if you allow all displays to be disconnected!</source>
+        <target state="translated">Dotyczy to zarówno fizycznego podłączenia zewnętrznego wyświetlacza, jak i ponownego połączenia go za pomocą aplikacji. Jednak aplikacja nie połączy ponownie wbudowanego wyświetlacza, jeśli zezwolisz na rozłączenie wszystkich wyświetlaczy!</target>
         <note/>
       </trans-unit>
       <trans-unit id="This can be a result of disabled DDC/CI support (check the display's OSD), display firmware limitations or connection issues. Many TVs and TV-derived smart monitors do not support DDC. If the issue cannot be resolved either by changing display settings or fixing cable issues, you should disable DDC support." xml:space="preserve">
@@ -9902,18 +10170,22 @@ A previous activation was automatically removed to make room for this new one.</
       </trans-unit>
       <trans-unit id="connected" xml:space="preserve">
         <source>connected</source>
+        <target state="translated">połączony</target>
         <note/>
       </trans-unit>
       <trans-unit id="connecting" xml:space="preserve">
         <source>connecting</source>
+        <target state="translated">łączenie</target>
         <note/>
       </trans-unit>
       <trans-unit id="connection check pending" xml:space="preserve">
         <source>connection check pending</source>
+        <target state="translated">sprawdzanie połączenia w toku</target>
         <note/>
       </trans-unit>
       <trans-unit id="connection validated" xml:space="preserve">
         <source>connection validated</source>
+        <target state="translated">połączenie zweryfikowane</target>
         <note/>
       </trans-unit>
       <trans-unit id="days" xml:space="preserve">

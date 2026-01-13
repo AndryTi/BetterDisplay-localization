@@ -2652,11 +2652,6 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
         <target state="translated">Настроить пользовательский EDID для дисплея.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Configure the nits counter shown within the native OSD icon under Settings &gt; Keyboard &gt; OSD." xml:space="preserve">
-        <source>Configure the nits counter shown within the native OSD icon under Settings &gt; Keyboard &gt; OSD.</source>
-        <target state="translated">Настроить отображение счётчика нит внутри нативной иконки OSD в Настройки &gt; Клавиатура &gt; OSD.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Configure the upscaling and dimming indicator OSD icon (chevron) under Settings &gt; Keyboard &gt; OSD." xml:space="preserve">
         <source>Configure the upscaling and dimming indicator OSD icon (chevron) under Settings &gt; Keyboard &gt; OSD.</source>
         <target state="translated">Настроить иконку индикатора масштабирования и затемнения OSD (шеврон) в Настройки &gt; Клавиатура &gt; OSD.</target>
